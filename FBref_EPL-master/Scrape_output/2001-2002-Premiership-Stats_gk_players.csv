@@ -1,0 +1,46 @@
+,games_starts,losses,minutes_per_game,save_perc,nationality,player,position,age,clean_sheets_perc,wins,goals_against_per90,games_subs,goals_against,shots_on_target_against,games,clean_sheets,minutes,draws,squad
+0,38,14,90,.780,ie IRL,Dean Kiely,GK,30,31.6,10,1.29,0,49,223,38,12,"3,420",14,Charlton Athletic
+1,38,9,90,.769,ie IRL,Shay Given,GK,25,23.7,21,1.37,0,52,225,38,9,"3,420",8,Newcastle United
+2,38,8,90,.810,eng ENG,Nigel Martyn,GK,34,47.4,18,0.97,0,37,195,38,18,"3,420",12,Leeds United
+3,37,13,90,.794,nl NED,Edwin van der Sar,GK,30,40.5,10,1.11,0,41,199,37,15,"3,321",14,Fulham
+4,36,16,90,.737,wal WAL,Paul Jones,GK,34,25.0,11,1.42,0,51,194,36,9,"3,240",9,Southampton
+5,36,15,90,.799,us USA,Brad Friedel,GK,30,19.4,11,1.31,0,47,234,36,7,"3,240",10,Blackburn Rovers
+6,35,5,89,.818,pl POL,Jerzy Dudek,GK,28,51.4,23,0.78,0,27,148,35,18,"3,115",8,Liverpool
+7,35,17,88,.761,eng ENG,Ian Walker,GK,29,20.0,5,1.49,0,51,213,35,7,"3,084",12,Leicester City
+8,34,16,90,.793,dk DEN,Thomas Sørensen,GK,25,29.4,10,1.26,0,43,208,34,10,"3,060",8,Sunderland
+9,34,13,89,.776,fi FIN,Jussi Jääskeläinen,GK,26,20.6,9,1.45,0,49,219,34,7,"3,032",12,Bolton Wanderers
+10,32,9,90,.712,fr FRA,Fabien Barthez,GK,30,28.1,19,1.31,0,42,146,32,9,"2,892",4,Manchester United
+11,29,14,90,.705,sco SCO,Neil Sullivan,GK,31,20.7,11,1.52,0,44,149,29,6,"2,610",4,Tottenham Hotspur
+12,29,9,90,.738,dk DEN,Peter Schmeichel,GK,37,20.7,10,1.31,0,38,145,29,6,"2,610",10,Aston Villa
+13,27,7,90,.810,it ITA,Carlo Cudicini,GK,27,48.1,14,0.96,1,27,142,28,13,"2,530",6,Chelsea
+14,26,10,90,.781,eng ENG,David James,GK,30,34.6,11,1.23,0,32,146,26,9,"2,340",5,West Ham United
+15,25,12,90,.767,eng ENG,Steve Simonsen,GK,22,28.0,6,1.52,0,38,163,25,7,"2,250",7,Everton
+16,21,13,89,.706,it ITA,Matteo Sereni,GK,26,23.8,4,1.79,0,37,126,21,5,"1,861",7,Ipswich Town
+17,21,11,86,.815,au AUS,Mark Schwarzer,GK,28,19.0,8,1.34,0,27,146,21,4,"1,810",1,Middlesbrough
+18,20,14,88,.731,eng ENG,Michael Oakes,GK,27,15.0,3,1.84,0,36,134,20,3,"1,758",3,Derby County
+19,17,1,90,.846,eng ENG,David Seaman,GK,37,52.9,14,0.71,0,12,78,17,9,"1,530",2,Arsenal
+20,17,5,84,.818,wal WAL,Mark Crossley,GK,32,47.1,4,1.07,1,18,99,18,8,"1,517",8,Middlesbrough
+21,16,9,87,.775,ee EST,Mart Poom,GK,29,18.8,5,1.41,1,23,102,17,3,"1,472",2,Derby County
+22,13,7,97,.729,eng ENG,Andy Marshall,GK,26,23.1,5,1.86,0,26,96,13,3,"1,260",1,Ipswich Town
+23,13,5,90,.756,eng ENG,Paul Gerrard,GK,28,30.8,5,1.46,0,19,78,13,4,"1,170",3,Everton
+24,12,5,90,.638,tt TRI,Shaka Hislop,GK,32,33.3,4,2.08,0,25,69,12,4,"1,080",3,West Ham United
+25,12,1,89,.794,eng ENG,Richard Wright,GK,23,25.0,6,1.17,0,14,68,12,3,"1,073",5,Arsenal
+26,9,1,82,.688,eng ENG,Stuart Taylor,GK,20,22.2,6,1.10,1,10,32,10,2,817,2,Arsenal
+27,9,2,90,.820,us USA,Kasey Keller,GK,31,22.2,3,1.00,0,9,50,9,2,810,4,Tottenham Hotspur
+28,9,3,90,.813,fi FIN,Peter Enckelman,GK,24,22.2,2,1.00,0,9,48,9,2,810,4,Aston Villa
+29,6,0,78,.909,nir NIR,Roy Carroll,GK,23,66.7,5,0.33,1,2,22,7,4,548,1,Manchester United
+30,6,0,90,.708,nl NED,Ed de Goey,GK,34,16.7,2,1.17,0,7,24,6,1,540,4,Chelsea
+31,5,1,88,.846,au AUS,Mark Bosnich,GK,29,20.0,1,0.82,0,4,26,5,1,440,3,Chelsea
+32,4,2,90,.619,at AUT,Jürgen Macho,GK,23,25.0,0,2.00,0,8,21,4,1,360,2,Sunderland
+33,3,3,84,.552,eng ENG,Tim Flowers,GK,34,0.0,0,3.48,1,13,29,4,0,336,1,Leicester City
+34,3,2,90,.611,eng ENG,Kevin Poole,GK,38,0.0,0,2.33,0,7,18,3,0,270,1,Bolton Wanderers
+35,2,1,90,.700,,Neil Moss,GK,26,0.0,1,1.50,0,3,10,2,0,180,0,Southampton
+36,2,1,90,.667,us USA,Ian Feuer,GK,30,0.0,0,2.00,0,4,12,2,0,180,1,Derby County
+37,2,1,90,.750,ie IRL,Alan Kelly Jr.,GK,32,50.0,1,2.00,0,4,16,2,1,180,0,Blackburn Rovers
+38,1,0,63,.750,fr FRA,Pegguy Arphexad,GK,28,0.0,1,0.72,1,1,4,2,0,125,0,Liverpool
+39,1,1,50,.625,nir NIR,Maik Taylor,GK,29,0.0,0,2.73,1,3,8,2,0,99,0,Fulham
+40,1,1,90,.571,eng ENG,Steve Banks,GK,29,0.0,0,3.00,0,3,7,1,0,90,0,Bolton Wanderers
+41,1,1,90,.500,nl NED,Sander Westerveld,GK,26,0.0,0,2.00,0,2,4,1,0,90,0,Liverpool
+42,0,1,72,.500,eng ENG,Marlon Beresford,GK,31,,0,2.50,1,2,4,1,0,72,0,Middlesbrough
+43,0,0,29,.500,ie IRL,Keith Branagan,GK,35,,0,3.10,1,1,2,1,0,29,1,Ipswich Town
+44,0,0,28,.250,dk DEN,Bo Hansen,"FW,MF",29,,0,9.64,1,3,4,1,0,28,0,Bolton Wanderers

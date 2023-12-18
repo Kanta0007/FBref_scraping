@@ -1,0 +1,39 @@
+,date,possession,captain,match_report,attendance,formation,opponent,round,dayofweek,goals_against,xg_against,referee,goals_for,venue,xg_for,result
+0,2018-08-20,65,Markel Susaeta,Match Report,"38,327",4-3-3,Leganés,Matchweek 1,Mon,1,1.0,Adrián Cordero,2,Home,2.2,W
+1,2018-08-27,59,Markel Susaeta,Match Report,"36,818",4-1-4-1,Huesca,Matchweek 2,Mon,2,0.3,Alberola Rojas,2,Home,0.6,D
+2,2018-09-15,39,Markel Susaeta,Match Report,"46,413",4-2-3-1,Real Madrid,Matchweek 4,Sat,1,1.8,José González,1,Home,1.4,D
+3,2018-09-23,30,Markel Susaeta,Match Report,"51,093",4-2-3-1,Betis,Matchweek 5,Sun,2,1.1,Javier Estrada,2,Away,0.6,D
+4,2018-09-26,66,Ander Iturraspe,Match Report,"39,672",4-2-3-1,Villarreal,Matchweek 6,Wed,3,2.5,Carlos del Cerro,0,Home,0.8,L
+5,2018-09-29,30,Markel Susaeta,Match Report,"78,015",4-2-3-1,Barcelona,Matchweek 7,Sat,1,3.2,Santiago Jaime,1,Away,0.9,D
+6,2018-10-05,69,Markel Susaeta,Match Report,"46,884",4-3-3,Real Sociedad,Matchweek 8,Fri,3,2.2,Alejandro Hernández,1,Home,1.4,L
+7,2018-10-21,39,Iker Muniain,Match Report,"6,475",4-2-3-1,Eibar,Matchweek 9,Sun,1,1.9,Jesús Gil,1,Away,0.7,D
+8,2018-10-24,65,Markel Susaeta,Match Report,"11,850",4-3-3,Rayo Vallecano,Matchweek 3,Wed,1,1.3,Guillermo Cuadra,1,Away,1.3,D
+9,2018-10-27,52,Markel Susaeta,Match Report,"39,261",4-1-4-1,Valencia,Matchweek 10,Sat,0,0.5,Alberto Undiano,0,Home,0.7,D
+10,2018-11-05,58,Óscar de Marcos,Match Report,"14,328",4-2-3-1,Espanyol,Matchweek 11,Mon,1,1.5,Pablo González,0,Away,0.5,L
+11,2018-11-10,49,Markel Susaeta,Match Report,"59,321",4-3-3,Atlético Madrid,Matchweek 12,Sat,3,1.1,José Sánchez,2,Away,1.9,L
+12,2018-11-25,64,Markel Susaeta,Match Report,"39,821",4-2-3-1,Getafe,Matchweek 13,Sun,1,2.0,Ignacio Iglesias,1,Home,0.6,D
+13,2018-12-03,53,Iker Muniain,Match Report,"19,928",3-4-1-2,Levante,Matchweek 14,Mon,3,1.9,Santiago Jaime,0,Away,1.1,L
+14,2018-12-10,52,Óscar de Marcos,Match Report,"34,060",4-2-3-1,Girona,Matchweek 15,Mon,0,0.2,Eduardo Prieto,1,Home,2.1,W
+15,2018-12-17,54,Markel Susaeta,Match Report,"19,349",4-2-3-1,Alavés,Matchweek 16,Mon,0,0.5,Antonio Matéu Lahoz,0,Away,0.3,D
+16,2018-12-22,43,Iker Muniain,Match Report,"42,633",4-2-3-1,Valladolid,Matchweek 17,Sat,1,0.6,José Sánchez,1,Home,1.1,D
+17,2019-01-07,35,Iker Muniain,Match Report,"13,266",4-2-3-1,Celta Vigo,Matchweek 18,Mon,1,1.5,Juan Martínez,2,Away,1.8,W
+18,2019-01-13,44,Iker Muniain,Match Report,"41,342",4-2-3-1,Sevilla,Matchweek 19,Sun,0,0.7,Pablo González,2,Home,0.9,W
+19,2019-01-20,50,Iker Muniain,Match Report,"17,054",4-2-3-1,Villarreal,Matchweek 20,Sun,1,1.1,Alberto Undiano,1,Away,0.5,D
+20,2019-01-27,39,Iker Muniain,Match Report,"40,282",4-2-3-1,Betis,Matchweek 21,Sun,0,0.4,Javier Estrada,1,Home,1.1,W
+21,2019-02-02,53,Iker Muniain,Match Report,"27,073",4-2-3-1,Real Sociedad,Matchweek 22,Sat,2,1.5,Antonio Matéu Lahoz,1,Away,1.4,L
+22,2019-02-10,33,Markel Susaeta,Match Report,"47,557",4-2-3-1,Barcelona,Matchweek 23,Sun,0,0.7,Carlos del Cerro,0,Home,1.3,D
+23,2019-02-18,50,Markel Susaeta,Match Report,"6,729",4-2-3-1,Huesca,Matchweek 24,Mon,0,1.2,José Sánchez,1,Away,1.4,W
+24,2019-02-23,46,Iker Muniain,Match Report,"43,363",4-2-3-1,Eibar,Matchweek 25,Sat,0,0.6,Mario Melero,1,Home,1.3,W
+25,2019-03-03,49,Iker Muniain,Match Report,"39,041",4-2-3-1,Valencia,Matchweek 26,Sun,2,1.3,David Medié,0,Away,0.4,L
+26,2019-03-08,65,Markel Susaeta,Match Report,"38,453",4-2-3-1,Espanyol,Matchweek 27,Fri,1,0.8,Pablo González,1,Home,0.8,D
+27,2019-03-16,47,Iker Muniain,Match Report,"39,659",4-2-3-1,Atlético Madrid,Matchweek 28,Sat,0,0.9,Santiago Jaime,2,Home,1.3,W
+28,2019-03-29,51,Óscar de Marcos,Match Report,"10,652",4-2-3-1,Girona,Matchweek 29,Fri,1,0.4,José Sánchez,2,Away,1.0,W
+29,2019-04-03,40,Óscar de Marcos,Match Report,"36,450",4-2-3-1,Levante,Matchweek 30,Wed,2,1.5,José Luis Munuera,3,Home,1.8,W
+30,2019-04-07,51,Óscar de Marcos,Match Report,"11,617",4-2-3-1,Getafe,Matchweek 31,Sun,1,1.3,José González,0,Away,0.7,L
+31,2019-04-14,47,Iker Muniain,Match Report,"38,732",4-2-3-1,Rayo Vallecano,Matchweek 32,Sun,2,1.0,Juan Martínez,3,Home,2.7,W
+32,2019-04-21,43,Iker Muniain,Match Report,"59,815",4-2-3-1,Real Madrid,Matchweek 33,Sun,3,1.9,Mario Melero,0,Away,0.5,L
+33,2019-04-24,43,Mikel San José,Match Report,"4,155",3-4-3,Leganés,Matchweek 34,Wed,0,0.6,Ignacio Iglesias,1,Away,0.6,W
+34,2019-04-27,63,Markel Susaeta,Match Report,"40,402",4-2-3-1,Alavés,Matchweek 35,Sat,1,1.3,Jesús Gil,1,Home,1.3,D
+35,2019-05-05,59,Iker Muniain,Match Report,"21,151",4-2-3-1,Valladolid,Matchweek 36,Sun,1,0.8,Antonio Matéu Lahoz,0,Away,1.6,L
+36,2019-05-12,52,Iker Muniain,Match Report,"42,494",4-2-3-1,Celta Vigo,Matchweek 37,Sun,1,1.1,Javier Estrada,3,Home,2.1,W
+37,2019-05-18,53,Iker Muniain,Match Report,"28,060",4-2-3-1,Sevilla,Matchweek 38,Sat,2,1.5,José Sánchez,0,Away,0.7,L

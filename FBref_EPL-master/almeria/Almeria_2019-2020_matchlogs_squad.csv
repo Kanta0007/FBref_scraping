@@ -1,0 +1,46 @@
+,date,dayofweek,goals_against,possession,round,xg_for,captain,goals_for,opponent,match_report,referee,venue,attendance,xg_against,result,formation
+0,2019-08-17,Sat,0,48,Matchweek 1,1.7,René Román,3,Albacete,Match Report,Saúl Ais,Home,"7,395",0.1,W,4-4-2
+1,2019-08-24,Sat,1,55,Matchweek 2,1.9,René Román,1,Racing Sant,Match Report,Oliver De La Fuente,Away,"11,402",0.5,D,4-2-3-1
+2,2019-08-31,Sat,0,36,Matchweek 3,2.0,René Román,1,Huesca,Match Report,Dámaso Arcediano,Home,"9,542",0.6,W,4-2-3-1
+3,2019-09-07,Sat,0,50,Matchweek 4,1.0,Lucien Owona,1,Málaga,Match Report,Rubén Ávalos,Away,"18,068",1.0,W,4-2-3-1
+4,2019-09-14,Sat,0,42,Matchweek 5,1.4,René Román,3,Las Palmas,Match Report,Aitor Gorostegui,Away,"10,077",0.4,W,4-2-3-1
+5,2019-09-17,Tue,1,49,Matchweek 6,2.0,René Román,3,Girona,Match Report,José López,Home,"11,034",0.6,W,4-2-3-1
+6,2019-09-21,Sat,1,43,Matchweek 7,0.7,René Román,1,Rayo Vallecano,Match Report,Daniel Ocón,Away,"9,098",1.8,D,4-2-3-1
+7,2019-09-29,Sun,2,62,Matchweek 8,1.1,René Román,1,Cádiz,Match Report,Daniel Trujillo,Home,"13,082",1.0,L,4-2-3-1
+8,2019-10-03,Thu,4,49,Matchweek 9,0.8,René Román,2,Sporting Gijón,Match Report,Álvaro Moreno,Away,"16,310",1.6,L,4-2-3-1
+9,2019-10-06,Sun,0,35,Matchweek 10,0.5,René Román,0,La Coruña,Match Report,Gorka Sagues,Away,"15,611",0.6,D,4-2-3-1
+10,2019-10-12,Sat,0,58,Matchweek 11,1.0,René Román,0,Lugo,Match Report,Iosu Galech,Home,"10,246",0.8,D,4-2-3-1
+11,2019-10-19,Sat,2,55,Matchweek 12,1.3,René Román,2,Alcorcón,Match Report,Isidro Díaz de Mera,Away,"2,611",1.7,D,4-2-3-1
+12,2019-10-27,Sun,2,56,Matchweek 13,1.3,René Román,3,Extremadura,Match Report,Javier Villanueva,Home,"8,943",1.2,W,4-2-3-1
+13,2019-11-01,Fri,0,46,Matchweek 14,0.2,René Román,0,Oviedo,Match Report,Dámaso Arcediano,Away,"11,350",0.7,D,4-2-3-1
+14,2019-11-10,Sun,1,49,Matchweek 15,1.4,René Román,1,Zaragoza,Match Report,Rubén Ávalos,Home,"10,403",0.9,D,4-2-3-1
+15,2019-11-16,Sat,1,49,Matchweek 16,1.0,René Román,1,Elche,Match Report,Oliver De La Fuente,Away,"9,691",0.3,D,4-1-4-1
+16,2019-11-24,Sun,0,36,Matchweek 17,2.2,Lucien Owona,2,Numancia,Match Report,Isidro Díaz de Mera,Home,"9,538",0.8,W,4-1-4-1
+17,2019-11-30,Sat,1,46,Matchweek 18,2.2,Lucien Owona,3,Tenerife,Match Report,Javier Villanueva,Away,"12,292",0.7,W,4-1-4-1
+18,2019-12-07,Sat,1,39,Matchweek 19,2.0,Fernando,3,CD Mirandés,Match Report,Víctor Areces,Home,"8,768",0.8,W,4-4-2
+19,2019-12-15,Sun,2,62,Matchweek 20,0.5,Lucien Owona,2,Fuenlabrada,Match Report,Dámaso Arcediano,Away,"4,873",0.4,D,3-1-4-2
+20,2019-12-22,Sun,3,65,Matchweek 21,2.1,Lucien Owona,2,Ponferradina,Match Report,Santiago Varón,Home,"9,957",2.4,L,4-4-2
+21,2020-01-04,Sat,0,45,Matchweek 22,2.0,Fernando,4,Lugo,Match Report,Aitor Gorostegui,Away,"3,070",0.7,W,5-3-2
+22,2020-01-16,Thu,0,61,Matchweek 23,1.5,Fernando,2,Oviedo,Match Report,Oliver De La Fuente,Home,"8,821",0.3,W,4-2-3-1
+23,2020-01-19,Sun,1,53,Matchweek 24,2.2,Fernando,2,Extremadura,Match Report,Miguel Ángel Ortiz Arias,Away,"5,095",1.7,W,5-4-1
+24,2020-01-26,Sun,2,48,Matchweek 25,1.1,Fernando,0,Elche,Match Report,Alejandro Muñíz,Home,"11,187",2.1,L,4-4-2
+25,2020-02-02,Sun,1,48,Matchweek 26,1.3,Fernando,1,Numancia,Match Report,Juan Pulido,Away,"3,333",1.7,D,4-2-3-1
+26,2020-02-07,Fri,1,63,Matchweek 27,0.8,Fernando,0,Racing Sant,Match Report,Jon González,Home,"9,482",0.6,L,4-1-4-1
+27,2020-02-15,Sat,3,43,Matchweek 28,1.0,José Romera,2,Huesca,Match Report,Javier Villanueva,Away,"6,547",2.2,L,4-4-2
+28,2020-02-22,Sat,0,65,Matchweek 29,0.3,José Romera,0,Fuenlabrada,Match Report,Iñaki Bikandi,Home,"9,438",0.3,D,4-4-2
+29,2020-02-29,Sat,2,58,Matchweek 30,1.3,Fernando,1,Cádiz,Match Report,Isidro Díaz de Mera,Away,"17,529",1.0,L,4-1-4-1
+30,2020-03-07,Sat,0,46,Matchweek 31,2.6,Fernando,4,La Coruña,Match Report,Daniel Trujillo,Home,"9,116",0.8,W,4-4-2
+31,2020-06-14,Sun,0,54,Matchweek 32,1.6,Fernando,1,Albacete,Match Report,Miguel Ángel Ortiz Arias,Away,,1.0,W,4-1-4-1
+32,2020-06-17,Wed,1,69,Matchweek 33,0.2,Fernando,0,Las Palmas,Match Report,Dámaso Arcediano,Home,,1.1,L,4-1-4-1
+33,2020-06-20,Sat,0,32,Matchweek 34,0.6,Fernando,2,Zaragoza,Match Report,Saúl Ais,Away,,1.0,W,4-2-3-1
+34,2020-06-25,Thu,1,64,Matchweek 35,1.7,Fernando,0,Alcorcón,Match Report,Iosu Galech,Home,,0.6,L,4-2-3-1
+35,2020-06-28,Sun,2,47,Matchweek 36,2.2,Fernando,2,CD Mirandés,Match Report,Iñaki Bikandi,Away,,2.6,D,4-1-4-1
+36,2020-07-01,Wed,0,49,Matchweek 37,0.3,Fernando,1,Sporting Gijón,Match Report,José López,Home,,0.6,W,4-2-3-1
+37,2020-07-04,Sat,2,50,Matchweek 38,1.3,Fernando,1,Tenerife,Match Report,Gorka Sagues,Home,,1.8,L,4-2-3-1
+38,2020-07-09,Thu,1,43,Matchweek 39,0.5,José Romera,0,Girona,Match Report,Oliver De La Fuente,Away,,1.2,L,4-2-3-1
+39,2020-07-13,Mon,2,32,Matchweek 40,0.8,José Romera,3,Rayo Vallecano,Match Report,Rubén Ávalos,Home,,2.3,W,4-4-2
+40,2020-07-17,Fri,2,71,Matchweek 41,2.5,César de la Hoz,1,Ponferradina,Match Report,Miguel Ángel Ortiz Arias,Away,,1.4,L,4-2-3-1
+41,2020-07-20,Mon,0,48,Matchweek 42,1.4,José Romera,0,Málaga,Match Report,Saúl Ais,Home,,0.7,D,4-1-4-1
+42,,,,,,,,,,,,,,,,
+43,2020-08-13,Thu,1,49,Semi-finals,0.1,César de la Hoz,0,Girona,Match Report,Javier Villanueva,Away,,1.0,L,3-4-3
+44,2020-08-16,Sun,2,68,Semi-finals,1.1,César de la Hoz,1,Girona,Match Report,Isidro Díaz de Mera,Home,,2.0,L,4-2-3-1

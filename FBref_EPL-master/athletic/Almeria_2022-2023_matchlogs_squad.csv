@@ -1,0 +1,39 @@
+,date,possession,captain,match_report,attendance,formation,opponent,round,dayofweek,goals_against,xg_against,referee,goals_for,venue,xg_for,result
+0,2022-08-15,64,Iker Muniain,Match Report,"39,747",4-3-3,Mallorca,Matchweek 1,Mon,0,0.4,Javier Villanueva,0,Home,1.6,D
+1,2022-08-21,38,Iker Muniain,Match Report,"43,333",4-2-3-1,Valencia,Matchweek 2,Sun,0,0.7,César Soto,1,Home,1.0,W
+2,2022-08-29,62,Iker Muniain,Match Report,"17,029",4-2-3-1,Cádiz,Matchweek 3,Mon,0,0.4,Miguel Ángel Ortiz Arias,4,Away,2.4,W
+3,2022-09-04,66,Iker Muniain,Match Report,"41,574",4-2-3-1,Espanyol,Matchweek 4,Sun,1,0.6,Juan Martínez,0,Home,1.2,L
+4,2022-09-11,53,Iker Muniain,Match Report,"24,176",4-2-3-1,Elche,Matchweek 5,Sun,1,0.9,Mario Melero,4,Away,2.7,W
+5,2022-09-17,39,Iker Muniain,Match Report,"43,484",4-2-3-1,Rayo Vallecano,Matchweek 6,Sat,2,0.7,Antonio Matéu Lahoz,3,Home,1.9,W
+6,2022-09-30,58,Iker Muniain,Match Report,"42,110",4-2-3-1,Almería,Matchweek 7,Fri,0,0.7,Juan Pulido,4,Home,2.1,W
+7,2022-10-08,55,Iker Muniain,Match Report,"36,502",4-2-3-1,Sevilla,Matchweek 8,Sat,1,1.0,Jesús Gil,1,Away,1.7,D
+8,2022-10-15,60,Iker Muniain,Match Report,"48,391",4-2-3-1,Atlético Madrid,Matchweek 9,Sat,1,0.3,Jorge Figueroa,0,Home,1.2,L
+9,2022-10-18,59,Iker Muniain,Match Report,"11,395",4-2-3-1,Getafe,Matchweek 10,Tue,2,0.8,José Luis Munuera,2,Away,1.0,D
+10,2022-10-23,35,Óscar de Marcos,Match Report,"84,817",4-2-3-1,Barcelona,Matchweek 11,Sun,4,1.4,Juan Martínez,0,Away,0.5,L
+11,2022-10-30,43,Óscar de Marcos,Match Report,"46,081",4-2-3-1,Villarreal,Matchweek 12,Sun,0,0.3,Miguel Ángel Ortiz Arias,1,Home,1.7,W
+12,2022-11-04,58,Iñaki Williams,Match Report,"11,420",4-2-3-1,Girona,Matchweek 13,Fri,2,1.0,Valentín Pizarro,1,Away,0.7,L
+13,2022-11-08,43,Óscar de Marcos,Match Report,"40,072",4-1-4-1,Valladolid,Matchweek 14,Tue,0,0.5,Isidro Díaz de Mera,3,Home,2.1,W
+14,2022-12-29,47,Óscar de Marcos,Match Report,"53,565",4-2-3-1,Betis,Matchweek 15,Thu,0,0.5,Alejandro Hernández,0,Away,0.4,D
+15,2023-01-09,59,Óscar de Marcos,Match Report,"39,216",4-2-3-1,Osasuna,Matchweek 16,Mon,0,0.4,Mario Melero,0,Home,1.0,D
+16,2023-01-14,43,Óscar de Marcos,Match Report,"38,296",4-2-3-1,Real Sociedad,Matchweek 17,Sat,3,2.0,Guillermo Cuadra,1,Away,0.3,L
+17,2023-01-22,51,Óscar de Marcos,Match Report,"49,316",4-2-3-1,Real Madrid,Matchweek 18,Sun,2,1.1,José Sánchez,0,Home,1.1,L
+18,2023-01-29,51,Iker Muniain,Match Report,"14,754",4-2-3-1,Celta Vigo,Matchweek 19,Sun,1,0.7,Isidro Díaz de Mera,0,Away,0.4,L
+19,2023-02-03,42,Iker Muniain,Match Report,"42,916",4-1-4-1,Cádiz,Matchweek 20,Fri,1,1.6,Valentín Pizarro,4,Home,1.7,W
+20,2023-02-11,51,Iker Muniain,Match Report,"36,688",4-2-3-1,Valencia,Matchweek 21,Sat,1,1.6,César Soto,2,Away,1.5,W
+21,2023-02-19,43,Iker Muniain,Match Report,"61,617",4-2-3-1,Atlético Madrid,Matchweek 22,Sun,1,1.2,Juan Martínez,0,Away,0.8,L
+22,2023-02-26,60,Iker Muniain,Match Report,"42,816",4-2-3-1,Girona,Matchweek 23,Sun,3,1.1,Isidro Díaz de Mera,2,Home,1.6,L
+23,2023-03-05,45,Iñigo Lekue,Match Report,"12,979",4-2-3-1,Rayo Vallecano,Matchweek 24,Sun,0,1.1,Mario Melero,0,Away,1.3,D
+24,2023-03-12,38,Óscar de Marcos,Match Report,"49,741",4-2-3-1,Barcelona,Matchweek 25,Sun,1,0.9,Jesús Gil,0,Home,0.9,L
+25,2023-03-17,52,Óscar de Marcos,Match Report,"21,707",4-2-3-1,Valladolid,Matchweek 26,Fri,1,1.1,Alberola Rojas,3,Away,2.6,W
+26,2023-04-01,65,Iker Muniain,Match Report,"43,782",4-3-3,Getafe,Matchweek 27,Sat,0,0.8,Javier Villanueva,0,Home,0.9,D
+27,2023-04-08,51,Óscar de Marcos,Match Report,"24,903",4-2-3-1,Espanyol,Matchweek 28,Sat,1,0.9,José Luis Munuera,2,Away,2.3,W
+28,2023-04-15,51,Iñaki Williams,Match Report,"49,287",4-2-3-1,Real Sociedad,Matchweek 29,Sat,0,1.4,César Soto,2,Home,0.8,W
+29,2023-04-22,47,Óscar de Marcos,Match Report,"13,271",4-2-3-1,Almería,Matchweek 30,Sat,1,0.8,Valentín Pizarro,2,Away,1.7,W
+30,2023-04-27,54,Óscar de Marcos,Match Report,"42,716",4-2-3-1,Sevilla,Matchweek 31,Thu,1,1.0,Alejandro Hernández,0,Home,0.3,L
+31,2023-05-01,70,Iñaki Williams,Match Report,"16,807",4-2-3-1,Mallorca,Matchweek 32,Mon,1,0.9,Jorge Figueroa,1,Away,1.7,D
+32,2023-05-04,63,Óscar de Marcos,Match Report,"43,116",4-2-3-1,Betis,Matchweek 33,Thu,1,1.2,Miguel Ángel Ortiz Arias,0,Home,1.6,L
+33,2023-05-13,44,Iñaki Williams,Match Report,"16,871",4-2-3-1,Villarreal,Matchweek 34,Sat,5,3.2,Carlos del Cerro,1,Away,3.1,L
+34,2023-05-20,49,Iker Muniain,Match Report,"40,759",4-1-4-1,Celta Vigo,Matchweek 35,Sat,1,0.5,Mario Melero,2,Home,1.0,W
+35,2023-05-25,51,Iker Muniain,Match Report,"19,830",4-2-3-1,Osasuna,Matchweek 36,Thu,2,0.8,Alejandro Muñíz,0,Away,0.8,L
+36,2023-05-28,64,Iker Muniain,Match Report,"37,807",4-2-3-1,Elche,Matchweek 37,Sun,1,0.9,Valentín Pizarro,0,Home,2.4,L
+37,2023-06-04,36,Óscar de Marcos,Match Report,"60,781",4-2-3-1,Real Madrid,Matchweek 38,Sun,1,1.8,Isidro Díaz de Mera,1,Away,2.3,D

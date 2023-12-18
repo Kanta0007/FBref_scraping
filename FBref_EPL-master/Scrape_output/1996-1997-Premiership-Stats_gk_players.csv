@@ -1,0 +1,48 @@
+,games_starts,losses,minutes_per_game,save_perc,nationality,player,position,age,clean_sheets_perc,wins,goals_against_per90,games_subs,goals_against,shots_on_target_against,games,clean_sheets,minutes,draws,squad
+0,38,9,90,.764,eng ENG,Kevin Pressman,GK,28,26.3,14,1.34,0,51,216,38,10,"3,420",15,Sheffield Wednesday
+1,38,15,90,.750,eng ENG,Steve Ogrizovic,GK,38,23.7,9,1.42,0,54,216,38,9,"3,420",14,Coventry City
+2,38,8,90,.813,eng ENG,David James,GK,25,31.6,19,0.97,0,37,198,38,12,"3,420",11,Liverpool
+3,37,17,90,.764,eng ENG,Ian Walker,GK,24,35.1,13,1.30,0,48,203,37,13,"3,330",7,Tottenham Hotspur
+4,37,14,90,.787,eng ENG,Nigel Martyn,GK,29,51.4,11,1.03,0,38,178,37,19,"3,330",12,Leeds United
+5,36,11,90,.787,sco SCO,Neil Sullivan,GK,26,30.6,15,1.19,0,43,202,36,11,"3,240",10,Wimbledon
+6,36,13,90,.766,eng ENG,Tim Flowers,GK,29,27.8,9,1.14,0,41,175,36,10,"3,240",14,Blackburn Rovers
+7,36,15,90,.770,"cs TCH,cz CZE",Luděk Mikloško,GK,34,25.0,9,1.28,0,46,200,36,9,"3,240",12,West Ham United
+8,36,5,90,.747,dk DEN,Peter Schmeichel,GK,32,36.1,20,1.17,0,42,166,36,13,"3,240",11,Manchester United
+9,34,14,90,.703,wal WAL,Neville Southall,GK,37,23.5,9,1.50,0,51,172,34,8,"3,060",11,Everton
+10,33,15,90,.715,wal WAL,Mark Crossley,GK,27,21.2,6,1.48,0,49,172,33,7,"2,970",12,Nottingham Forest
+11,31,11,88,.729,eng ENG,Russell Hoult,GK,23,22.6,8,1.44,1,45,166,32,7,"2,812",12,Derby County
+12,31,11,90,.737,us USA,Kasey Keller,GK,26,29.0,11,1.32,0,41,156,31,9,"2,790",9,Leicester City
+13,28,15,89,.738,fr FRA,Lionel Pérez,GK,29,25.0,8,1.56,1,45,172,29,7,"2,588",6,Sunderland
+14,23,7,90,.810,eng ENG,Michael Oakes,GK,22,43.5,10,0.83,0,19,100,23,10,"2,070",6,Aston Villa
+15,22,5,90,.846,eng ENG,David Seaman,GK,32,45.5,12,0.64,0,14,91,22,10,"1,980",5,Arsenal
+16,22,5,90,.802,cz CZE,Pavel Srníček,GK,28,40.9,11,0.86,0,19,96,22,9,"1,980",6,Newcastle United
+17,20,8,90,.714,no NOR,Frode Grodås,GK,31,20.0,6,1.52,1,32,112,21,4,"1,890",6,Chelsea
+18,19,5,90,.787,nir NIR,Maik Taylor,GK,24,36.8,6,1.00,0,19,89,19,7,"1,710",8,Southampton
+19,16,3,90,.772,tt TRI,Shaka Hislop,GK,27,18.8,8,1.31,0,21,92,16,3,"1,440",5,Newcastle United
+20,15,3,90,.710,eng ENG,John Lukic,GK,35,33.3,6,1.20,0,18,62,15,5,"1,350",6,Arsenal
+21,15,5,90,.762,au AUS,Mark Bosnich,GK,24,33.3,7,1.00,0,15,63,15,5,"1,350",4,Aston Villa
+22,13,10,89,.717,eng ENG,Dave Beasant,GK,37,15.4,3,1.88,1,26,92,14,2,"1,244",1,Southampton
+23,12,6,90,.743,eng ENG,Gary Walsh,GK,28,16.7,4,1.50,0,18,70,12,2,"1,080",2,Middlesbrough
+24,10,2,90,.731,,Kevin Hitchcock,GK,33,20.0,7,1.50,2,18,67,12,2,"1,080",3,Chelsea
+25,10,6,90,.717,eng ENG,Alan Miller,GK,26,10.0,0,1.70,0,17,60,10,1,900,4,Middlesbrough
+26,10,3,90,.800,eng ENG,Tony Coton,GK,35,40.0,2,0.80,0,8,40,10,4,900,4,Sunderland
+27,9,2,85,.729,eng ENG,Ben Roberts,GK,21,11.1,3,1.69,1,16,59,10,1,850,4,Middlesbrough
+28,7,2,90,.750,au AUS,Mark Schwarzer,GK,23,28.6,3,1.29,0,9,36,7,2,630,2,Middlesbrough
+29,7,4,90,.723,eng ENG,Kevin Poole,GK,33,0.0,1,1.86,0,13,47,7,0,630,2,Leicester City
+30,5,0,90,.800,"ru RUS,su URS",Dmitri Kharine,GK,27,60.0,3,0.60,0,3,15,5,3,450,1,Chelsea
+31,4,2,85,.769,eng ENG,Paul Gerrard,GK,23,50.0,1,1.27,1,6,26,5,2,425,1,Everton
+32,4,2,90,.640,eng ENG,Chris Woods,GK,36,25.0,1,2.25,0,9,25,4,1,360,1,Southampton
+33,4,1,90,.636,nir NIR,Alan Fettis,"GK,FW",25,25.0,0,2.00,0,8,22,4,1,360,3,Nottingham Forest
+34,4,1,90,.696,ee EST,Mart Poom,GK,24,0.0,2,1.75,0,7,23,4,0,360,1,Derby County
+35,3,0,90,.750,,Neil Moss,GK,21,33.3,1,1.00,0,3,12,3,1,270,2,Southampton
+36,3,1,90,.700,eng ENG,Martin Taylor,GK,29,33.3,1,1.00,0,3,10,3,1,270,1,Derby County
+37,2,1,80,.700,eng ENG,Paul Heald,GK,27,0.0,0,1.13,1,3,10,3,0,240,1,Wimbledon
+38,2,0,90,.778,nl NED,Raimond van der Gouw,GK,33,100.0,1,1.00,0,2,9,2,2,180,1,Manchester United
+39,2,1,90,.750,ie IRL,Shay Given,GK,20,50.0,0,1.00,0,2,8,2,1,180,1,Blackburn Rovers
+40,1,1,90,.727,no NOR,Espen Baardsen,GK,18,0.0,0,1.50,1,3,11,2,0,180,0,Tottenham Hotspur
+41,1,1,68,.667,eng ENG,Les Sealey,GK,38,0.0,0,1.33,1,2,6,2,0,135,0,West Ham United
+42,1,0,90,1.000,au AUS,Steve Mautone,GK,25,100.0,1,0.00,0,0,5,1,1,90,0,West Ham United
+43,1,1,90,.625,ie IRL,Nick Colgan,GK,22,0.0,0,3.00,0,3,8,1,0,90,0,Chelsea
+44,1,0,90,1.000,,Mark Beeney,GK,28,100.0,0,0.00,0,0,3,1,1,90,1,Leeds United
+45,1,0,90,.778,nir NIR,Tommy Wright,GK,32,0.0,0,2.00,0,2,9,1,0,90,1,Nottingham Forest
+46,1,0,90,1.000,eng ENG,Lee Harper,GK,24,100.0,1,0.00,0,0,3,1,1,90,0,Arsenal

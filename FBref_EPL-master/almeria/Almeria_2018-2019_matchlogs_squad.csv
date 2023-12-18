@@ -1,0 +1,43 @@
+,date,dayofweek,goals_against,possession,round,xg_for,captain,goals_for,opponent,match_report,referee,venue,attendance,xg_against,result,formation
+0,2018-08-17,Fri,1,44,Matchweek 1,0.1,Joaquín Fernández,0,Cádiz,Match Report,Daniel Trujillo,Away,"13,582",1.3,L,4-2-3-1
+1,2018-08-26,Sun,1,40,Matchweek 2,0.9,Joaquín Fernández,1,Tenerife,Match Report,Isidro Díaz de Mera,Home,"6,737",0.6,D,4-2-3-1
+2,2018-09-03,Mon,1,59,Matchweek 3,0.7,Ángel Trujillo,0,Málaga,Match Report,Valentín Pizarro,Home,"8,955",0.5,L,4-2-3-1
+3,2018-09-08,Sat,3,46,Matchweek 4,1.5,Ángel Trujillo,1,Osasuna,Match Report,David Pérez,Away,"12,765",2.4,L,4-2-3-1
+4,2018-09-16,Sun,1,37,Matchweek 5,1.2,René Román,2,Zaragoza,Match Report,Víctor Areces,Home,"7,251",1.1,W,4-2-3-1
+5,2018-09-23,Sun,0,37,Matchweek 6,1.5,René Román,2,Numancia,Match Report,César Soto,Away,"3,159",1.2,W,4-2-3-1
+6,2018-09-30,Sun,0,51,Matchweek 7,3.3,René Román,2,Reus,Match Report,Juan Pulido,Home,"7,543",0.5,W,4-2-3-1
+7,2018-10-06,Sat,1,59,Matchweek 8,0.5,René Román,0,Córdoba,Match Report,Álvaro Moreno,Away,"11,284",1.2,L,4-2-3-1
+8,2018-10-13,Sat,0,38,Matchweek 9,2.7,René Román,3,Las Palmas,Match Report,Javier Villanueva,Home,"7,339",0.6,W,4-2-3-1
+9,2018-10-21,Sun,1,66,Matchweek 10,3.6,René Román,1,Albacete,Match Report,Daniel Ocón,Away,"8,075",0.9,D,4-2-3-1
+10,2018-10-27,Sat,1,36,Matchweek 11,0.5,René Román,0,Granada,Match Report,Dámaso Arcediano,Away,"10,228",1.2,L,4-2-3-1
+11,2018-11-04,Sun,1,62,Matchweek 12,1.3,René Román,2,Sporting Gijón,Match Report,Saúl Ais,Home,"7,424",1.1,W,4-2-3-1
+12,2018-11-11,Sun,2,54,Matchweek 13,0.7,René Román,0,Majadahonda,Match Report,Aitor Gorostegui,Away,"2,216",1.8,L,4-2-3-1
+13,2018-11-19,Mon,1,48,Matchweek 14,1.0,René Román,1,La Coruña,Match Report,Rubén Ávalos,Home,"5,977",0.2,D,4-2-3-1
+14,2018-11-24,Sat,2,58,Matchweek 15,1.2,René Román,2,Gimnàstic,Match Report,Valentín Pizarro,Away,"6,514",1.0,D,4-2-3-1
+15,2018-12-01,Sat,1,60,Matchweek 16,0.7,René Román,1,Extremadura,Match Report,David Pérez,Home,"6,232",0.7,D,4-2-3-1
+16,2018-12-08,Sat,1,37,Matchweek 17,0.8,René Román,2,Oviedo,Match Report,Javier Villanueva,Away,"12,408",2.0,W,4-2-3-1
+17,2018-12-16,Sun,1,63,Matchweek 18,2.4,René Román,1,Lugo,Match Report,César Soto,Home,"6,160",0.9,D,4-2-3-1
+18,2018-12-22,Sat,2,50,Matchweek 19,0.7,René Román,2,Elche,Match Report,Oliver De La Fuente,Away,"7,454",1.8,D,4-4-2
+19,2019-01-06,Sun,0,50,Matchweek 20,3.6,René Román,2,Mallorca,Match Report,Daniel Trujillo,Home,"5,796",0.7,W,4-4-2
+20,2019-01-13,Sun,0,47,Matchweek 21,1.8,René Román,0,Alcorcón,Match Report,Aitor Gorostegui,Away,"2,950",0.8,D,4-2-3-1
+21,2019-01-19,Sat,0,62,Matchweek 22,0.3,René Román,0,Cádiz,Match Report,José López,Home,"7,716",1.3,D,4-2-3-1
+22,2019-01-26,Sat,1,59,Matchweek 23,0.9,René Román,0,Osasuna,Match Report,Valentín Pizarro,Home,"7,015",1.0,L,4-2-3-1
+23,2019-02-01,Fri,1,56,Matchweek 24,1.4,René Román,1,Málaga,Match Report,Víctor Areces,Away,"13,313",1.5,D,4-2-3-1
+24,2019-02-10,Sun,0,41,Matchweek 25,3.0,René Román,1,Numancia,Match Report,Isidro Díaz de Mera,Home,"7,356",0.3,W,4-4-2
+25,2019-02-17,Sun,0,,Matchweek 26,,,1,Reus,Match Report,,Away,,,W,
+26,2019-02-24,Sun,1,39,Matchweek 27,1.4,René Román,3,Córdoba,Match Report,Juan Pulido,Home,"8,571",1.5,W,4-4-2
+27,2019-03-03,Sun,1,32,Matchweek 28,2.9,René Román,2,Zaragoza,Match Report,Santiago Varón,Away,"20,400",1.7,W,4-2-3-1
+28,2019-03-09,Sat,1,53,Matchweek 29,0.9,René Román,0,Sporting Gijón,Match Report,Dámaso Arcediano,Away,"17,490",1.8,L,4-2-3-1
+29,2019-03-17,Sun,0,43,Matchweek 30,0.5,René Román,0,Granada,Match Report,Iñaki Bikandi,Home,"13,273",0.1,D,4-4-2
+30,2019-03-22,Fri,0,39,Matchweek 31,0.9,René Román,0,La Coruña,Match Report,Daniel Trujillo,Away,"16,086",1.5,D,4-2-3-1
+31,2019-03-30,Sat,2,44,Matchweek 32,1.7,René Román,2,Majadahonda,Match Report,Rubén Ávalos,Home,"6,858",2.2,D,4-4-2
+32,2019-04-06,Sat,1,55,Matchweek 33,1.3,René Román,0,Extremadura,Match Report,Juan Pulido,Away,"9,754",1.5,L,4-2-3-1
+33,2019-04-13,Sat,0,52,Matchweek 34,2.3,René Román,3,Gimnàstic,Match Report,Víctor Areces,Home,"6,133",1.2,W,4-4-2
+34,2019-04-21,Sun,1,41,Matchweek 35,1.9,René Román,3,Tenerife,Match Report,Aitor Gorostegui,Away,"10,339",1.4,W,4-4-2
+35,2019-04-27,Sat,1,56,Matchweek 36,0.5,René Román,0,Oviedo,Match Report,Gorka Sagues,Home,"7,911",0.9,L,4-4-2
+36,2019-05-05,Sun,4,62,Matchweek 37,2.0,René Román,2,Lugo,Match Report,Saúl Ais,Away,"4,667",1.8,L,4-4-2
+37,2019-05-12,Sun,3,43,Matchweek 38,3.0,René Román,5,Elche,Match Report,David Pérez,Home,"5,127",2.7,W,4-4-2
+38,2019-05-19,Sun,1,47,Matchweek 39,0.2,René Román,0,Mallorca,Match Report,José López,Away,"9,645",2.2,L,4-2-3-1
+39,2019-05-26,Sun,0,57,Matchweek 40,0.3,Lucien Owona,0,Alcorcón,Match Report,Santiago Varón,Home,"4,286",1.0,D,4-4-2
+40,2019-06-02,Sun,0,42,Matchweek 41,0.4,Lucien Owona,0,Las Palmas,Match Report,Valentín Pizarro,Away,"7,288",1.9,D,4-2-3-1
+41,2019-06-08,Sat,0,57,Matchweek 42,4.0,Fernando,3,Albacete,Match Report,Aitor Gorostegui,Home,"4,375",0.9,W,4-2-3-1

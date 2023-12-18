@@ -1,0 +1,43 @@
+,date,dayofweek,goals_against,possession,round,xg_for,captain,goals_for,opponent,match_report,referee,venue,attendance,xg_against,result,formation
+0,2021-08-16,Mon,1,45,Matchweek 1,2.0,José Carlos Lazo,3,Cartagena,Match Report,Aitor Gorostegui,Away,"4,770",0.9,W,4-3-3
+1,2021-08-20,Fri,1,60,Matchweek 2,1.6,José Carlos Lazo,2,Oviedo,Match Report,Francisco Hernández,Home,"4,100",0.4,W,4-3-3
+2,2021-08-29,Sun,2,52,Matchweek 3,1.1,José Carlos Lazo,1,Amorebieta,Match Report,Víctor García Verdura,Away,592,1.3,L,4-3-3
+3,2021-09-04,Sat,0,42,Matchweek 4,1.7,César de la Hoz,2,Málaga,Match Report,Jon González,Home,"6,353",1.6,W,4-3-3
+4,2021-09-12,Sun,1,58,Matchweek 5,0.4,José Carlos Lazo,0,Ponferradina,Match Report,Dámaso Arcediano,Away,"3,935",1.1,L,4-2-3-1
+5,2021-09-17,Fri,0,47,Matchweek 6,3.1,César de la Hoz,4,Alcorcón,Match Report,Raúl González,Away,"1,559",1.1,W,4-3-3
+6,2021-09-24,Fri,1,65,Matchweek 7,2.2,César de la Hoz,3,Tenerife,Match Report,Rubén Ávalos,Home,"7,074",1.6,W,4-3-3
+7,2021-10-04,Mon,1,49,Matchweek 8,2.5,César de la Hoz,2,Girona,Match Report,Juan Pulido,Away,"4,904",1.5,W,4-3-3
+8,2021-10-09,Sat,1,40,Matchweek 9,1.7,César de la Hoz,1,Las Palmas,Match Report,Saúl Ais,Home,"8,734",0.7,D,4-1-4-1
+9,2021-10-15,Fri,1,60,Matchweek 10,1.4,César de la Hoz,0,Eibar,Match Report,José López,Away,"3,630",1.0,L,4-2-3-1
+10,2021-10-21,Thu,1,52,Matchweek 11,3.2,César de la Hoz,3,Real Sociedad B,Match Report,Javier Villanueva,Home,"7,697",0.6,W,4-2-3-1
+11,2021-10-24,Sun,1,46,Matchweek 12,2.1,César de la Hoz,4,CD Mirandés,Match Report,Jon González,Away,"2,365",1.2,W,4-2-3-1
+12,2021-10-29,Fri,0,52,Matchweek 13,0.8,César de la Hoz,1,Leganés,Match Report,Iosu Galech,Home,"8,867",1.4,W,4-2-3-1
+13,2021-11-02,Tue,0,48,Matchweek 14,1.8,César de la Hoz,1,Sporting Gijón,Match Report,Álvaro Moreno,Away,"11,980",0.9,W,4-2-3-1
+14,2021-11-07,Sun,0,76,Matchweek 15,1.3,César de la Hoz,2,Burgos,Match Report,Aitor Gorostegui,Home,"9,513",0.2,W,4-3-3
+15,2021-11-14,Sun,0,45,Matchweek 16,2.1,César de la Hoz,1,Ibiza,Match Report,Eduardo Prieto,Away,"4,937",1.1,W,4-2-3-1
+16,2021-11-20,Sat,1,60,Matchweek 17,1.8,César de la Hoz,3,Valladolid,Match Report,Javier Villanueva,Home,"9,208",0.5,W,4-3-3
+17,2021-11-27,Sat,0,65,Matchweek 18,1.7,César de la Hoz,0,Huesca,Match Report,David Gálvez,Home,"9,486",0.5,D,4-3-3
+18,2021-12-04,Sat,1,69,Matchweek 19,0.9,César de la Hoz,1,Fuenlabrada,Match Report,Juan Pulido,Away,"2,052",0.6,D,4-2-3-1
+19,2021-12-11,Sat,0,50,Matchweek 20,3.0,César de la Hoz,3,Zaragoza,Match Report,Francisco Hernández,Home,"9,258",0.6,W,4-2-3-1
+20,2022-01-02,Sun,1,46,Matchweek 22,1.1,César de la Hoz,0,Cartagena,Match Report,Raúl González,Home,"7,058",1.5,L,4-2-3-1
+21,2022-01-09,Sun,1,41,Matchweek 23,0.4,César de la Hoz,1,Las Palmas,Match Report,David Gálvez,Away,"9,827",1.6,D,4-2-3-1
+22,2022-01-19,Wed,2,75,Matchweek 21,1.5,César de la Hoz,1,Lugo,Match Report,Gorka Sagues,Away,"1,445",1.4,L,4-2-3-1
+23,2022-01-24,Mon,2,68,Matchweek 24,1.2,César de la Hoz,0,Eibar,Match Report,Daniel Trujillo,Home,"7,843",0.7,L,4-3-3
+24,2022-01-29,Sat,2,56,Matchweek 25,0.8,César de la Hoz,0,Oviedo,Match Report,Javier Villanueva,Away,"10,543",0.4,L,4-2-3-1
+25,2022-02-04,Fri,0,52,Matchweek 26,3.6,César de la Hoz,2,Ibiza,Match Report,Álvaro Moreno,Home,"7,993",0.2,W,4-2-3-1
+26,2022-02-12,Sat,0,50,Matchweek 27,1.2,César de la Hoz,1,Málaga,Match Report,Jon González,Away,"17,267",0.4,W,4-2-3-1
+27,2022-02-20,Sun,1,48,Matchweek 28,2.3,César de la Hoz,2,CD Mirandés,Match Report,Aitor Gorostegui,Home,"8,432",2.2,W,4-1-4-1
+28,2022-02-25,Fri,1,68,Matchweek 29,3.1,Daniel Carriço,3,Fuenlabrada,Match Report,Víctor García Verdura,Home,"8,506",0.9,W,4-2-3-1
+29,2022-03-04,Fri,2,61,Matchweek 30,1.9,César de la Hoz,0,Zaragoza,Match Report,Daniel Trujillo,Away,"14,000",0.9,L,4-4-2
+30,2022-03-12,Sat,3,63,Matchweek 31,1.9,César de la Hoz,3,Lugo,Match Report,Juan Pulido,Home,"10,053",0.6,D,4-2-3-1
+31,2022-03-21,Mon,0,51,Matchweek 32,1.0,César de la Hoz,1,Tenerife,Match Report,Oliver De La Fuente,Away,"15,007",0.9,W,3-5-2
+32,2022-03-27,Sun,1,60,Matchweek 33,2.3,César de la Hoz,0,Girona,Match Report,Gorka Sagues,Home,"9,260",1.6,L,4-2-3-1
+33,2022-04-03,Sun,1,54,Matchweek 34,0.5,César de la Hoz,1,Huesca,Match Report,José López,Away,"5,832",1.6,D,4-2-3-1
+34,2022-04-11,Mon,0,52,Matchweek 35,1.4,César de la Hoz,3,Ponferradina,Match Report,Daniel Trujillo,Home,"9,836",0.3,W,4-3-3
+35,2022-04-16,Sat,2,44,Matchweek 36,1.8,Lucas Robertone,2,Valladolid,Match Report,Francisco Hernández,Away,"19,608",1.1,D,4-2-3-1
+36,2022-04-25,Mon,0,59,Matchweek 37,2.5,César de la Hoz,1,Sporting Gijón,Match Report,Jon González,Home,"9,897",0.5,W,4-2-3-1
+37,2022-04-30,Sat,0,56,Matchweek 38,1.2,Lucas Robertone,2,Burgos,Match Report,Juan Pulido,Away,"8,479",2.0,W,4-2-3-1
+38,2022-05-07,Sat,0,55,Matchweek 39,3.0,César de la Hoz,3,Amorebieta,Match Report,Javier Villanueva,Home,"13,478",0.5,W,4-2-3-1
+39,2022-05-13,Fri,0,45,Matchweek 40,1.9,César de la Hoz,2,Real Sociedad B,Match Report,Iván Caparrós,Away,"8,140",0.7,W,4-2-3-1
+40,2022-05-21,Sat,1,63,Matchweek 41,1.8,César de la Hoz,1,Alcorcón,Match Report,Raúl González,Home,"14,759",1.0,D,4-2-3-1
+41,2022-05-29,Sun,2,65,Matchweek 42,1.5,César de la Hoz,2,Leganés,Match Report,Dámaso Arcediano,Away,"8,654",1.8,D,4-2-3-1

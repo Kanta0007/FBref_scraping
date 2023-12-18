@@ -1,0 +1,293 @@
+,date,goals_for,possession,round,match_report,venue,xg_against,opponent,xg_for,attendance,captain,goals_against,formation,dayofweek,referee,result
+0,2017-08-20,1,50,Matchweek 1,Match Report,Away,2.1,Gimnàstic,1.2,"5,861",Jorge Morcillo,0,4-4-1-1,Sun,Oliver De La Fuente,W
+1,2017-08-26,1,55,Matchweek 2,Match Report,Home,1.4,Oviedo,0.5,"6,878",Jorge Morcillo,1,4-4-1-1,Sat,Eduardo Prieto,D
+2,2017-09-02,0,62,Matchweek 3,Match Report,Away,2.4,Numancia,0.8,"2,274",Jorge Morcillo,1,4-4-1-1,Sat,Rubén Eiriz,L
+3,2017-09-09,2,54,Matchweek 4,Match Report,Home,0.6,Lorca FC,1.0,"7,354",Jorge Morcillo,1,4-3-3,Sat,Isidro Díaz de Mera,W
+4,2017-09-16,1,46,Matchweek 5,Match Report,Away,1.2,Osasuna,0.9,"13,773",Jorge Morcillo,2,4-3-3,Sat,Santiago Varón,L
+5,2017-09-22,3,55,Matchweek 6,Match Report,Home,0.9,Sevilla B,2.4,"7,306",Jorge Morcillo,0,4-3-3,Fri,Jorge Valdés Aller,W
+6,2017-09-29,0,56,Matchweek 7,Match Report,Away,0.9,Leonesa,0.6,"7,349",Jorge Morcillo,0,4-3-3,Fri,Aitor Gorostegui,D
+7,2017-10-07,0,57,Matchweek 8,Match Report,Home,2.6,Huesca,0.4,"7,226",Joaquín Fernández,3,4-3-3,Sat,Saúl Ais,L
+8,2017-10-12,0,38,Matchweek 9,Match Report,Away,2.1,Rayo Vallecano,0.2,"8,615",Jorge Morcillo,1,4-2-3-1,Thu,Juan Pulido,L
+9,2017-10-15,1,43,Matchweek 10,Match Report,Home,1.3,Valladolid,1.0,"7,260",Joaquín Fernández,1,4-3-3,Sun,Iñaki Bikandi,D
+10,2017-10-22,0,63,Matchweek 11,Match Report,Home,0.2,Reus,0.6,"10,473",Joaquín Fernández,1,4-4-2,Sun,Gorka Sagues,L
+11,2017-10-28,0,58,Matchweek 12,Match Report,Away,0.6,Sporting Gijón,1.0,"20,987",Joaquín Fernández,2,4-4-2,Sat,Eduardo Prieto,L
+12,2017-11-05,0,64,Matchweek 13,Match Report,Home,1.5,Cádiz,0.5,"6,961",Joaquín Fernández,2,4-4-2,Sun,Dámaso Arcediano,L
+13,2017-11-11,0,51,Matchweek 14,Match Report,Away,1.2,Albacete,0.3,"6,712",Jorge Morcillo,2,4-2-3-1,Sat,Álvaro Moreno,L
+14,2017-11-17,3,38,Matchweek 15,Match Report,Home,0.4,Zaragoza,0.6,"5,209",Jorge Morcillo,0,4-4-2,Fri,Daniel Ocón,W
+15,2017-11-26,1,35,Matchweek 16,Match Report,Away,1.1,Barcelona B,1.2,"2,124",Rubén Alcaraz,1,4-4-2,Sun,Adrián Cordero,D
+16,2017-12-03,2,38,Matchweek 17,Match Report,Home,2.1,Tenerife,2.3,"5,795",Rubén Alcaraz,1,4-4-2,Sun,David Pérez,W
+17,2017-12-08,2,38,Matchweek 18,Match Report,Away,1.6,Granada,1.2,"12,577",Jorge Morcillo,3,4-4-2,Fri,José López,L
+18,2017-12-16,1,36,Matchweek 19,Match Report,Home,0.6,Córdoba,1.6,"5,166",Jorge Morcillo,0,4-4-2,Sat,Aitor Gorostegui,W
+19,2017-12-22,0,46,Matchweek 20,Match Report,Away,1.7,Alcorcón,0.3,"1,796",Jorge Morcillo,2,4-2-3-1,Fri,Dámaso Arcediano,L
+20,2018-01-07,1,47,Matchweek 21,Match Report,Home,2.2,Lugo,1.1,"4,928",Jorge Morcillo,0,4-1-4-1,Sun,Víctor Areces,W
+21,2018-01-13,1,46,Matchweek 22,Match Report,Home,1.1,Gimnàstic,1.7,"6,046",Joaquín Fernández,1,4-3-3,Sat,Valentín Pizarro,D
+22,2018-01-20,1,41,Matchweek 23,Match Report,Away,2.0,Oviedo,0.9,"15,144",Joaquín Fernández,2,4-2-3-1,Sat,Isidro Díaz de Mera,L
+23,2018-01-28,0,40,Matchweek 24,Match Report,Home,0.8,Numancia,0.5,"5,177",Joaquín Fernández,0,4-4-2,Sun,Adrián Cordero,D
+24,2018-02-03,2,50,Matchweek 25,Match Report,Away,2.2,Lorca FC,0.4,"4,982",Joaquín Fernández,1,4-3-3,Sat,David Pérez,W
+25,2018-02-10,0,42,Matchweek 26,Match Report,Home,0.8,Osasuna,0.3,"5,477",Joaquín Fernández,1,4-2-3-1,Sat,Santiago Varón,L
+26,2018-02-18,3,47,Matchweek 27,Match Report,Away,1.2,Sevilla B,2.1,993,Joaquín Fernández,0,4-4-2,Sun,Víctor Areces,W
+27,2018-02-24,2,37,Matchweek 28,Match Report,Home,2.3,Leonesa,1.7,"7,024",Jorge Morcillo,1,4-4-2,Sat,Rubén Eiriz,W
+28,2018-03-04,2,35,Matchweek 29,Match Report,Away,0.3,Huesca,1.8,"4,572",Jorge Morcillo,2,4-4-2,Sun,Aitor Gorostegui,D
+29,2018-03-10,0,46,Matchweek 30,Match Report,Home,0.9,Rayo Vallecano,0.7,"7,130",Jorge Morcillo,1,4-4-2,Sat,David Pérez,L
+30,2018-03-18,1,42,Matchweek 31,Match Report,Away,1.8,Valladolid,0.7,"11,617",Jorge Morcillo,2,3-4-3,Sun,Saúl Ais,L
+31,2018-03-24,0,56,Matchweek 32,Match Report,Away,1.8,Reus,1.8,"3,420",Jorge Morcillo,1,3-4-3,Sat,Jorge Valdés Aller,L
+32,2018-04-01,1,54,Matchweek 33,Match Report,Home,2.0,Sporting Gijón,2.1,"7,501",Jorge Morcillo,3,4-3-3,Sun,Isidro Díaz de Mera,L
+33,2018-04-06,0,35,Matchweek 34,Match Report,Away,1.0,Cádiz,0.1,"13,523",Jorge Morcillo,0,4-4-2,Fri,Gorka Sagues,D
+34,2018-04-15,1,65,Matchweek 35,Match Report,Home,0.9,Albacete,1.2,"6,876",Verza,1,4-2-3-1,Sun,Juan Pulido,D
+35,2018-04-21,1,38,Matchweek 36,Match Report,Away,2.1,Zaragoza,0.2,"20,706",Jorge Morcillo,2,4-2-3-1,Sat,Daniel Ocón,L
+36,2018-04-28,1,32,Matchweek 37,Match Report,Home,0.9,Barcelona B,1.7,"10,422",Joaquín Fernández,0,4-2-3-1,Sat,Víctor Areces,W
+37,2018-05-05,0,40,Matchweek 38,Match Report,Away,1.2,Tenerife,1.5,"11,378",Joaquín Fernández,0,4-2-3-1,Sat,Santiago Varón,D
+38,2018-05-13,2,33,Matchweek 39,Match Report,Home,0.4,Granada,1.2,"9,314",Joaquín Fernández,0,4-4-2,Sun,Gorka Sagues,W
+39,2018-05-20,0,51,Matchweek 40,Match Report,Away,1.6,Córdoba,0.3,"18,867",Joaquín Fernández,2,4-2-3-1,Sun,Juan Pulido,L
+40,2018-05-27,0,41,Matchweek 41,Match Report,Home,0.6,Alcorcón,0.4,"12,678",Joaquín Fernández,0,4-4-2,Sun,Eduardo Prieto,D
+41,2018-06-02,1,31,Matchweek 42,Match Report,Away,1.1,Lugo,0.6,"2,923",Jorge Morcillo,1,4-2-3-1,Sat,Adrián Cordero,D
+42,2018-08-17,0,44,Matchweek 1,Match Report,Away,1.3,Cádiz,0.1,"13,582",Joaquín Fernández,1,4-2-3-1,Fri,Daniel Trujillo,L
+43,2018-08-26,1,40,Matchweek 2,Match Report,Home,0.6,Tenerife,0.9,"6,737",Joaquín Fernández,1,4-2-3-1,Sun,Isidro Díaz de Mera,D
+44,2018-09-03,0,59,Matchweek 3,Match Report,Home,0.5,Málaga,0.7,"8,955",Ángel Trujillo,1,4-2-3-1,Mon,Valentín Pizarro,L
+45,2018-09-08,1,46,Matchweek 4,Match Report,Away,2.4,Osasuna,1.5,"12,765",Ángel Trujillo,3,4-2-3-1,Sat,David Pérez,L
+46,2018-09-16,2,37,Matchweek 5,Match Report,Home,1.1,Zaragoza,1.2,"7,251",René Román,1,4-2-3-1,Sun,Víctor Areces,W
+47,2018-09-23,2,37,Matchweek 6,Match Report,Away,1.2,Numancia,1.5,"3,159",René Román,0,4-2-3-1,Sun,César Soto,W
+48,2018-09-30,2,51,Matchweek 7,Match Report,Home,0.5,Reus,3.3,"7,543",René Román,0,4-2-3-1,Sun,Juan Pulido,W
+49,2018-10-06,0,59,Matchweek 8,Match Report,Away,1.2,Córdoba,0.5,"11,284",René Román,1,4-2-3-1,Sat,Álvaro Moreno,L
+50,2018-10-13,3,38,Matchweek 9,Match Report,Home,0.6,Las Palmas,2.7,"7,339",René Román,0,4-2-3-1,Sat,Javier Villanueva,W
+51,2018-10-21,1,66,Matchweek 10,Match Report,Away,0.9,Albacete,3.6,"8,075",René Román,1,4-2-3-1,Sun,Daniel Ocón,D
+52,2018-10-27,0,36,Matchweek 11,Match Report,Away,1.2,Granada,0.5,"10,228",René Román,1,4-2-3-1,Sat,Dámaso Arcediano,L
+53,2018-11-04,2,62,Matchweek 12,Match Report,Home,1.1,Sporting Gijón,1.3,"7,424",René Román,1,4-2-3-1,Sun,Saúl Ais,W
+54,2018-11-11,0,54,Matchweek 13,Match Report,Away,1.8,Majadahonda,0.7,"2,216",René Román,2,4-2-3-1,Sun,Aitor Gorostegui,L
+55,2018-11-19,1,48,Matchweek 14,Match Report,Home,0.2,La Coruña,1.0,"5,977",René Román,1,4-2-3-1,Mon,Rubén Ávalos,D
+56,2018-11-24,2,58,Matchweek 15,Match Report,Away,1.0,Gimnàstic,1.2,"6,514",René Román,2,4-2-3-1,Sat,Valentín Pizarro,D
+57,2018-12-01,1,60,Matchweek 16,Match Report,Home,0.7,Extremadura,0.7,"6,232",René Román,1,4-2-3-1,Sat,David Pérez,D
+58,2018-12-08,2,37,Matchweek 17,Match Report,Away,2.0,Oviedo,0.8,"12,408",René Román,1,4-2-3-1,Sat,Javier Villanueva,W
+59,2018-12-16,1,63,Matchweek 18,Match Report,Home,0.9,Lugo,2.4,"6,160",René Román,1,4-2-3-1,Sun,César Soto,D
+60,2018-12-22,2,50,Matchweek 19,Match Report,Away,1.8,Elche,0.7,"7,454",René Román,2,4-4-2,Sat,Oliver De La Fuente,D
+61,2019-01-06,2,50,Matchweek 20,Match Report,Home,0.7,Mallorca,3.6,"5,796",René Román,0,4-4-2,Sun,Daniel Trujillo,W
+62,2019-01-13,0,47,Matchweek 21,Match Report,Away,0.8,Alcorcón,1.8,"2,950",René Román,0,4-2-3-1,Sun,Aitor Gorostegui,D
+63,2019-01-19,0,62,Matchweek 22,Match Report,Home,1.3,Cádiz,0.3,"7,716",René Román,0,4-2-3-1,Sat,José López,D
+64,2019-01-26,0,59,Matchweek 23,Match Report,Home,1.0,Osasuna,0.9,"7,015",René Román,1,4-2-3-1,Sat,Valentín Pizarro,L
+65,2019-02-01,1,56,Matchweek 24,Match Report,Away,1.5,Málaga,1.4,"13,313",René Román,1,4-2-3-1,Fri,Víctor Areces,D
+66,2019-02-10,1,41,Matchweek 25,Match Report,Home,0.3,Numancia,3.0,"7,356",René Román,0,4-4-2,Sun,Isidro Díaz de Mera,W
+67,2019-02-17,1,,Matchweek 26,Match Report,Away,,Reus,,,,0,,Sun,,W
+68,2019-02-24,3,39,Matchweek 27,Match Report,Home,1.5,Córdoba,1.4,"8,571",René Román,1,4-4-2,Sun,Juan Pulido,W
+69,2019-03-03,2,32,Matchweek 28,Match Report,Away,1.7,Zaragoza,2.9,"20,400",René Román,1,4-2-3-1,Sun,Santiago Varón,W
+70,2019-03-09,0,53,Matchweek 29,Match Report,Away,1.8,Sporting Gijón,0.9,"17,490",René Román,1,4-2-3-1,Sat,Dámaso Arcediano,L
+71,2019-03-17,0,43,Matchweek 30,Match Report,Home,0.1,Granada,0.5,"13,273",René Román,0,4-4-2,Sun,Iñaki Bikandi,D
+72,2019-03-22,0,39,Matchweek 31,Match Report,Away,1.5,La Coruña,0.9,"16,086",René Román,0,4-2-3-1,Fri,Daniel Trujillo,D
+73,2019-03-30,2,44,Matchweek 32,Match Report,Home,2.2,Majadahonda,1.7,"6,858",René Román,2,4-4-2,Sat,Rubén Ávalos,D
+74,2019-04-06,0,55,Matchweek 33,Match Report,Away,1.5,Extremadura,1.3,"9,754",René Román,1,4-2-3-1,Sat,Juan Pulido,L
+75,2019-04-13,3,52,Matchweek 34,Match Report,Home,1.2,Gimnàstic,2.3,"6,133",René Román,0,4-4-2,Sat,Víctor Areces,W
+76,2019-04-21,3,41,Matchweek 35,Match Report,Away,1.4,Tenerife,1.9,"10,339",René Román,1,4-4-2,Sun,Aitor Gorostegui,W
+77,2019-04-27,0,56,Matchweek 36,Match Report,Home,0.9,Oviedo,0.5,"7,911",René Román,1,4-4-2,Sat,Gorka Sagues,L
+78,2019-05-05,2,62,Matchweek 37,Match Report,Away,1.8,Lugo,2.0,"4,667",René Román,4,4-4-2,Sun,Saúl Ais,L
+79,2019-05-12,5,43,Matchweek 38,Match Report,Home,2.7,Elche,3.0,"5,127",René Román,3,4-4-2,Sun,David Pérez,W
+80,2019-05-19,0,47,Matchweek 39,Match Report,Away,2.2,Mallorca,0.2,"9,645",René Román,1,4-2-3-1,Sun,José López,L
+81,2019-05-26,0,57,Matchweek 40,Match Report,Home,1.0,Alcorcón,0.3,"4,286",Lucien Owona,0,4-4-2,Sun,Santiago Varón,D
+82,2019-06-02,0,42,Matchweek 41,Match Report,Away,1.9,Las Palmas,0.4,"7,288",Lucien Owona,0,4-2-3-1,Sun,Valentín Pizarro,D
+83,2019-06-08,3,57,Matchweek 42,Match Report,Home,0.9,Albacete,4.0,"4,375",Fernando,0,4-2-3-1,Sat,Aitor Gorostegui,W
+84,2019-08-17,3,48,Matchweek 1,Match Report,Home,0.1,Albacete,1.7,"7,395",René Román,0,4-4-2,Sat,Saúl Ais,W
+85,2019-08-24,1,55,Matchweek 2,Match Report,Away,0.5,Racing Sant,1.9,"11,402",René Román,1,4-2-3-1,Sat,Oliver De La Fuente,D
+86,2019-08-31,1,36,Matchweek 3,Match Report,Home,0.6,Huesca,2.0,"9,542",René Román,0,4-2-3-1,Sat,Dámaso Arcediano,W
+87,2019-09-07,1,50,Matchweek 4,Match Report,Away,1.0,Málaga,1.0,"18,068",Lucien Owona,0,4-2-3-1,Sat,Rubén Ávalos,W
+88,2019-09-14,3,42,Matchweek 5,Match Report,Away,0.4,Las Palmas,1.4,"10,077",René Román,0,4-2-3-1,Sat,Aitor Gorostegui,W
+89,2019-09-17,3,49,Matchweek 6,Match Report,Home,0.6,Girona,2.0,"11,034",René Román,1,4-2-3-1,Tue,José López,W
+90,2019-09-21,1,43,Matchweek 7,Match Report,Away,1.8,Rayo Vallecano,0.7,"9,098",René Román,1,4-2-3-1,Sat,Daniel Ocón,D
+91,2019-09-29,1,62,Matchweek 8,Match Report,Home,1.0,Cádiz,1.1,"13,082",René Román,2,4-2-3-1,Sun,Daniel Trujillo,L
+92,2019-10-03,2,49,Matchweek 9,Match Report,Away,1.6,Sporting Gijón,0.8,"16,310",René Román,4,4-2-3-1,Thu,Álvaro Moreno,L
+93,2019-10-06,0,35,Matchweek 10,Match Report,Away,0.6,La Coruña,0.5,"15,611",René Román,0,4-2-3-1,Sun,Gorka Sagues,D
+94,2019-10-12,0,58,Matchweek 11,Match Report,Home,0.8,Lugo,1.0,"10,246",René Román,0,4-2-3-1,Sat,Iosu Galech,D
+95,2019-10-19,2,55,Matchweek 12,Match Report,Away,1.7,Alcorcón,1.3,"2,611",René Román,2,4-2-3-1,Sat,Isidro Díaz de Mera,D
+96,2019-10-27,3,56,Matchweek 13,Match Report,Home,1.2,Extremadura,1.3,"8,943",René Román,2,4-2-3-1,Sun,Javier Villanueva,W
+97,2019-11-01,0,46,Matchweek 14,Match Report,Away,0.7,Oviedo,0.2,"11,350",René Román,0,4-2-3-1,Fri,Dámaso Arcediano,D
+98,2019-11-10,1,49,Matchweek 15,Match Report,Home,0.9,Zaragoza,1.4,"10,403",René Román,1,4-2-3-1,Sun,Rubén Ávalos,D
+99,2019-11-16,1,49,Matchweek 16,Match Report,Away,0.3,Elche,1.0,"9,691",René Román,1,4-1-4-1,Sat,Oliver De La Fuente,D
+100,2019-11-24,2,36,Matchweek 17,Match Report,Home,0.8,Numancia,2.2,"9,538",Lucien Owona,0,4-1-4-1,Sun,Isidro Díaz de Mera,W
+101,2019-11-30,3,46,Matchweek 18,Match Report,Away,0.7,Tenerife,2.2,"12,292",Lucien Owona,1,4-1-4-1,Sat,Javier Villanueva,W
+102,2019-12-07,3,39,Matchweek 19,Match Report,Home,0.8,CD Mirandés,2.0,"8,768",Fernando,1,4-4-2,Sat,Víctor Areces,W
+103,2019-12-15,2,62,Matchweek 20,Match Report,Away,0.4,Fuenlabrada,0.5,"4,873",Lucien Owona,2,3-1-4-2,Sun,Dámaso Arcediano,D
+104,2019-12-22,2,65,Matchweek 21,Match Report,Home,2.4,Ponferradina,2.1,"9,957",Lucien Owona,3,4-4-2,Sun,Santiago Varón,L
+105,2020-01-04,4,45,Matchweek 22,Match Report,Away,0.7,Lugo,2.0,"3,070",Fernando,0,5-3-2,Sat,Aitor Gorostegui,W
+106,2020-01-16,2,61,Matchweek 23,Match Report,Home,0.3,Oviedo,1.5,"8,821",Fernando,0,4-2-3-1,Thu,Oliver De La Fuente,W
+107,2020-01-19,2,53,Matchweek 24,Match Report,Away,1.7,Extremadura,2.2,"5,095",Fernando,1,5-4-1,Sun,Miguel Ángel Ortiz Arias,W
+108,2020-01-26,0,48,Matchweek 25,Match Report,Home,2.1,Elche,1.1,"11,187",Fernando,2,4-4-2,Sun,Alejandro Muñíz,L
+109,2020-02-02,1,48,Matchweek 26,Match Report,Away,1.7,Numancia,1.3,"3,333",Fernando,1,4-2-3-1,Sun,Juan Pulido,D
+110,2020-02-07,0,63,Matchweek 27,Match Report,Home,0.6,Racing Sant,0.8,"9,482",Fernando,1,4-1-4-1,Fri,Jon González,L
+111,2020-02-15,2,43,Matchweek 28,Match Report,Away,2.2,Huesca,1.0,"6,547",José Romera,3,4-4-2,Sat,Javier Villanueva,L
+112,2020-02-22,0,65,Matchweek 29,Match Report,Home,0.3,Fuenlabrada,0.3,"9,438",José Romera,0,4-4-2,Sat,Iñaki Bikandi,D
+113,2020-02-29,1,58,Matchweek 30,Match Report,Away,1.0,Cádiz,1.3,"17,529",Fernando,2,4-1-4-1,Sat,Isidro Díaz de Mera,L
+114,2020-03-07,4,46,Matchweek 31,Match Report,Home,0.8,La Coruña,2.6,"9,116",Fernando,0,4-4-2,Sat,Daniel Trujillo,W
+115,2020-06-14,1,54,Matchweek 32,Match Report,Away,1.0,Albacete,1.6,,Fernando,0,4-1-4-1,Sun,Miguel Ángel Ortiz Arias,W
+116,2020-06-17,0,69,Matchweek 33,Match Report,Home,1.1,Las Palmas,0.2,,Fernando,1,4-1-4-1,Wed,Dámaso Arcediano,L
+117,2020-06-20,2,32,Matchweek 34,Match Report,Away,1.0,Zaragoza,0.6,,Fernando,0,4-2-3-1,Sat,Saúl Ais,W
+118,2020-06-25,0,64,Matchweek 35,Match Report,Home,0.6,Alcorcón,1.7,,Fernando,1,4-2-3-1,Thu,Iosu Galech,L
+119,2020-06-28,2,47,Matchweek 36,Match Report,Away,2.6,CD Mirandés,2.2,,Fernando,2,4-1-4-1,Sun,Iñaki Bikandi,D
+120,2020-07-01,1,49,Matchweek 37,Match Report,Home,0.6,Sporting Gijón,0.3,,Fernando,0,4-2-3-1,Wed,José López,W
+121,2020-07-04,1,50,Matchweek 38,Match Report,Home,1.8,Tenerife,1.3,,Fernando,2,4-2-3-1,Sat,Gorka Sagues,L
+122,2020-07-09,0,43,Matchweek 39,Match Report,Away,1.2,Girona,0.5,,José Romera,1,4-2-3-1,Thu,Oliver De La Fuente,L
+123,2020-07-13,3,32,Matchweek 40,Match Report,Home,2.3,Rayo Vallecano,0.8,,José Romera,2,4-4-2,Mon,Rubén Ávalos,W
+124,2020-07-17,1,71,Matchweek 41,Match Report,Away,1.4,Ponferradina,2.5,,César de la Hoz,2,4-2-3-1,Fri,Miguel Ángel Ortiz Arias,L
+125,2020-07-20,0,48,Matchweek 42,Match Report,Home,0.7,Málaga,1.4,,José Romera,0,4-1-4-1,Mon,Saúl Ais,D
+126,,,,,,,,,,,,,,,,
+127,2020-08-13,0,49,Semi-finals,Match Report,Away,1.0,Girona,0.1,,César de la Hoz,1,3-4-3,Thu,Javier Villanueva,L
+128,2020-08-16,1,68,Semi-finals,Match Report,Home,2.0,Girona,1.1,,César de la Hoz,2,4-2-3-1,Sun,Isidro Díaz de Mera,L
+129,2020-09-27,2,61,Matchweek 3,Match Report,Away,0.3,Lugo,0.4,,César de la Hoz,0,4-3-3,Sun,Aitor Gorostegui,W
+130,2020-10-04,0,66,Matchweek 4,Match Report,Home,0.7,Sporting Gijón,0.7,,César de la Hoz,1,4-2-3-1,Sun,Rubén Ávalos,L
+131,2020-10-10,0,63,Matchweek 5,Match Report,Away,0.7,UD Logroñés,0.2,,Fernando,1,4-2-3-1,Sat,Oliver De La Fuente,L
+132,2020-10-17,0,62,Matchweek 6,Match Report,Away,0.6,Las Palmas,0.4,,Fernando,2,4-2-3-1,Sat,Iñaki Bikandi,L
+133,2020-10-21,1,58,Matchweek 7,Match Report,Home,1.6,Cartagena,1.8,,César de la Hoz,1,4-2-3-1,Wed,David Gálvez,D
+134,2020-10-24,3,60,Matchweek 8,Match Report,Home,0.3,Fuenlabrada,2.2,,José Corpas,0,4-2-3-1,Sat,Saúl Ais,W
+135,2020-10-28,2,54,Matchweek 9,Match Report,Away,1.4,Castellón,1.2,,José Corpas,1,4-2-3-1,Wed,Eduardo Prieto,W
+136,2020-11-01,0,74,Matchweek 10,Match Report,Home,0.2,Girona,2.2,,José Corpas,0,4-2-3-1,Sun,Dámaso Arcediano,D
+137,2020-11-05,2,48,Matchweek 1,Match Report,Away,1.6,Sabadell,1.6,,Fernando,1,4-2-3-1,Thu,Iosu Galech,W
+138,2020-11-08,1,61,Matchweek 11,Match Report,Away,0.6,Rayo Vallecano,1.0,,José Corpas,0,4-2-3-1,Sun,Javier Villanueva,W
+139,2020-11-14,2,46,Matchweek 12,Match Report,Home,1.5,CD Mirandés,1.5,,Fernando,1,4-2-3-1,Sat,Rafael Sánchez,W
+140,2020-11-23,2,51,Matchweek 13,Match Report,Away,1.9,Albacete,1.6,,José Corpas,1,4-2-3-1,Mon,Juan Pulido,W
+141,2020-11-26,2,57,Matchweek 14,Match Report,Home,0.8,Tenerife,1.9,,Fernando,0,4-2-3-1,Thu,Álvaro Moreno,W
+142,2020-11-30,2,48,Matchweek 15,Match Report,Away,1.2,Oviedo,1.5,,José Corpas,1,4-2-3-1,Mon,David Gálvez,W
+143,2020-12-03,0,54,Matchweek 16,Match Report,Home,0.6,Mallorca,0.5,,Fernando,1,4-2-3-1,Thu,Alejandro Muñíz,L
+144,2020-12-06,1,60,Matchweek 17,Match Report,Away,2.0,Alcorcón,1.1,,José Corpas,0,4-2-3-1,Sun,José López,W
+145,2020-12-09,1,52,Matchweek 2,Match Report,Home,0.5,Zaragoza,0.9,,Fernando,0,4-2-3-1,Wed,Aitor Gorostegui,W
+146,2020-12-13,3,54,Matchweek 18,Match Report,Home,1.3,Málaga,1.0,,José Corpas,1,4-2-3-1,Sun,Daniel Trujillo,W
+147,2020-12-20,1,59,Matchweek 19,Match Report,Away,1.4,Espanyol,1.9,,José Corpas,2,4-2-3-1,Sun,Miguel Ángel Ortiz Arias,L
+148,2021-01-03,3,61,Matchweek 20,Match Report,Home,0.4,Ponferradina,2.2,,Iván Balliu,1,4-2-3-1,Sun,Eduardo Prieto,W
+149,2021-01-24,2,62,Matchweek 22,Match Report,Home,0.7,Sabadell,1.9,,José Corpas,2,4-2-3-1,Sun,Daniel Ocón,D
+150,2021-01-30,3,76,Matchweek 23,Match Report,Home,0.2,Castellón,1.5,,José Corpas,1,4-2-3-1,Sat,Iñaki Bikandi,W
+151,2021-02-06,1,50,Matchweek 24,Match Report,Away,2.2,Fuenlabrada,0.3,,José Corpas,1,4-2-3-1,Sat,Gorka Sagues,D
+152,2021-02-14,3,46,Matchweek 25,Match Report,Home,0.7,Las Palmas,3.3,,Iván Balliu,1,4-4-2,Sun,Jon González,W
+153,2021-02-17,1,53,Matchweek 21,Match Report,Away,1.3,Leganés,0.7,,Fernando,2,4-2-3-1,Wed,Javier Villanueva,L
+154,2021-02-21,0,56,Matchweek 26,Match Report,Away,1.5,Mallorca,1.0,,José Corpas,2,4-2-3-1,Sun,Miguel Ángel Ortiz Arias,L
+155,2021-02-27,4,70,Matchweek 27,Match Report,Home,1.5,Lugo,3.3,,Iván Balliu,1,4-2-3-1,Sat,Dámaso Arcediano,W
+156,2021-03-07,1,53,Matchweek 28,Match Report,Away,0.6,Girona,1.4,,José Corpas,0,4-2-3-1,Sun,Javier Villanueva,W
+157,2021-03-15,0,62,Matchweek 29,Match Report,Home,0.7,Alcorcón,0.5,,José Corpas,0,4-2-3-1,Mon,Oliver De La Fuente,D
+158,2021-03-21,1,67,Matchweek 30,Match Report,Away,1.0,Ponferradina,0.9,,José Corpas,2,4-2-3-1,Sun,Iosu Galech,L
+159,2021-03-27,1,70,Matchweek 31,Match Report,Home,2.1,Leganés,4.0,,Iván Balliu,1,4-2-3-1,Sat,José López,D
+160,2021-03-30,3,53,Matchweek 32,Match Report,Away,0.8,Málaga,1.9,,Iván Balliu,0,4-2-3-1,Tue,Rubén Ávalos,W
+161,2021-04-02,0,57,Matchweek 33,Match Report,Home,0.7,Rayo Vallecano,0.3,,Fernando,1,4-2-3-1,Fri,Alejandro Muñíz,L
+162,2021-04-11,1,64,Matchweek 34,Match Report,Away,1.6,Zaragoza,2.3,,Iván Balliu,2,4-2-3-1,Sun,Miguel Ángel Ortiz Arias,L
+163,2021-04-19,1,53,Matchweek 35,Match Report,Home,1.9,Espanyol,0.9,,Iván Balliu,1,4-2-3-1,Mon,David Gálvez,D
+164,2021-04-25,1,53,Matchweek 36,Match Report,Away,1.0,CD Mirandés,1.7,,José Corpas,1,3-4-3,Sun,Francisco Hernández,D
+165,2021-05-01,2,52,Matchweek 37,Match Report,Home,0.5,Oviedo,1.8,,José Corpas,2,4-1-4-1,Sat,Saúl Ais,D
+166,2021-05-07,1,61,Matchweek 38,Match Report,Away,0.7,Tenerife,2.1,,José Corpas,0,4-2-3-1,Fri,Álvaro Moreno,W
+167,2021-05-15,1,74,Matchweek 39,Match Report,Home,0.9,Albacete,2.6,,Iván Balliu,1,4-2-3-1,Sat,Miguel Ángel Ortiz Arias,D
+168,2021-05-18,2,62,Matchweek 40,Match Report,Away,1.7,Cartagena,1.7,"2,643",Nikola Maraš,3,4-2-3-1,Tue,Javier Villanueva,L
+169,2021-05-24,2,57,Matchweek 41,Match Report,Home,1.5,UD Logroñés,2.9,,César de la Hoz,1,4-2-3-1,Mon,Francisco Hernández,W
+170,2021-05-30,2,55,Matchweek 42,Match Report,Away,1.0,Sporting Gijón,1.1,"4,450",Fernando,0,4-2-3-1,Sun,Eduardo Prieto,W
+171,,,,,,,,,,,,,,,,
+172,2021-06-02,0,62,Semi-finals,Match Report,Away,2.1,Girona,0.3,,César de la Hoz,3,4-2-3-1,Wed,Alejandro Muñíz,L
+173,2021-06-05,0,67,Semi-finals,Match Report,Home,1.1,Girona,0.9,,Fernando,0,4-2-3-1,Sat,Miguel Ángel Ortiz Arias,D
+174,2021-08-16,3,45,Matchweek 1,Match Report,Away,0.9,Cartagena,2.0,"4,770",José Carlos Lazo,1,4-3-3,Mon,Aitor Gorostegui,W
+175,2021-08-20,2,60,Matchweek 2,Match Report,Home,0.4,Oviedo,1.6,"4,100",José Carlos Lazo,1,4-3-3,Fri,Francisco Hernández,W
+176,2021-08-29,1,52,Matchweek 3,Match Report,Away,1.3,Amorebieta,1.1,592,José Carlos Lazo,2,4-3-3,Sun,Víctor García Verdura,L
+177,2021-09-04,2,42,Matchweek 4,Match Report,Home,1.6,Málaga,1.7,"6,353",César de la Hoz,0,4-3-3,Sat,Jon González,W
+178,2021-09-12,0,58,Matchweek 5,Match Report,Away,1.1,Ponferradina,0.4,"3,935",José Carlos Lazo,1,4-2-3-1,Sun,Dámaso Arcediano,L
+179,2021-09-17,4,47,Matchweek 6,Match Report,Away,1.1,Alcorcón,3.1,"1,559",César de la Hoz,0,4-3-3,Fri,Raúl González,W
+180,2021-09-24,3,65,Matchweek 7,Match Report,Home,1.6,Tenerife,2.2,"7,074",César de la Hoz,1,4-3-3,Fri,Rubén Ávalos,W
+181,2021-10-04,2,49,Matchweek 8,Match Report,Away,1.5,Girona,2.5,"4,904",César de la Hoz,1,4-3-3,Mon,Juan Pulido,W
+182,2021-10-09,1,40,Matchweek 9,Match Report,Home,0.7,Las Palmas,1.7,"8,734",César de la Hoz,1,4-1-4-1,Sat,Saúl Ais,D
+183,2021-10-15,0,60,Matchweek 10,Match Report,Away,1.0,Eibar,1.4,"3,630",César de la Hoz,1,4-2-3-1,Fri,José López,L
+184,2021-10-21,3,52,Matchweek 11,Match Report,Home,0.6,Real Sociedad B,3.2,"7,697",César de la Hoz,1,4-2-3-1,Thu,Javier Villanueva,W
+185,2021-10-24,4,46,Matchweek 12,Match Report,Away,1.2,CD Mirandés,2.1,"2,365",César de la Hoz,1,4-2-3-1,Sun,Jon González,W
+186,2021-10-29,1,52,Matchweek 13,Match Report,Home,1.4,Leganés,0.8,"8,867",César de la Hoz,0,4-2-3-1,Fri,Iosu Galech,W
+187,2021-11-02,1,48,Matchweek 14,Match Report,Away,0.9,Sporting Gijón,1.8,"11,980",César de la Hoz,0,4-2-3-1,Tue,Álvaro Moreno,W
+188,2021-11-07,2,76,Matchweek 15,Match Report,Home,0.2,Burgos,1.3,"9,513",César de la Hoz,0,4-3-3,Sun,Aitor Gorostegui,W
+189,2021-11-14,1,45,Matchweek 16,Match Report,Away,1.1,Ibiza,2.1,"4,937",César de la Hoz,0,4-2-3-1,Sun,Eduardo Prieto,W
+190,2021-11-20,3,60,Matchweek 17,Match Report,Home,0.5,Valladolid,1.8,"9,208",César de la Hoz,1,4-3-3,Sat,Javier Villanueva,W
+191,2021-11-27,0,65,Matchweek 18,Match Report,Home,0.5,Huesca,1.7,"9,486",César de la Hoz,0,4-3-3,Sat,David Gálvez,D
+192,2021-12-04,1,69,Matchweek 19,Match Report,Away,0.6,Fuenlabrada,0.9,"2,052",César de la Hoz,1,4-2-3-1,Sat,Juan Pulido,D
+193,2021-12-11,3,50,Matchweek 20,Match Report,Home,0.6,Zaragoza,3.0,"9,258",César de la Hoz,0,4-2-3-1,Sat,Francisco Hernández,W
+194,2022-01-02,0,46,Matchweek 22,Match Report,Home,1.5,Cartagena,1.1,"7,058",César de la Hoz,1,4-2-3-1,Sun,Raúl González,L
+195,2022-01-09,1,41,Matchweek 23,Match Report,Away,1.6,Las Palmas,0.4,"9,827",César de la Hoz,1,4-2-3-1,Sun,David Gálvez,D
+196,2022-01-19,1,75,Matchweek 21,Match Report,Away,1.4,Lugo,1.5,"1,445",César de la Hoz,2,4-2-3-1,Wed,Gorka Sagues,L
+197,2022-01-24,0,68,Matchweek 24,Match Report,Home,0.7,Eibar,1.2,"7,843",César de la Hoz,2,4-3-3,Mon,Daniel Trujillo,L
+198,2022-01-29,0,56,Matchweek 25,Match Report,Away,0.4,Oviedo,0.8,"10,543",César de la Hoz,2,4-2-3-1,Sat,Javier Villanueva,L
+199,2022-02-04,2,52,Matchweek 26,Match Report,Home,0.2,Ibiza,3.6,"7,993",César de la Hoz,0,4-2-3-1,Fri,Álvaro Moreno,W
+200,2022-02-12,1,50,Matchweek 27,Match Report,Away,0.4,Málaga,1.2,"17,267",César de la Hoz,0,4-2-3-1,Sat,Jon González,W
+201,2022-02-20,2,48,Matchweek 28,Match Report,Home,2.2,CD Mirandés,2.3,"8,432",César de la Hoz,1,4-1-4-1,Sun,Aitor Gorostegui,W
+202,2022-02-25,3,68,Matchweek 29,Match Report,Home,0.9,Fuenlabrada,3.1,"8,506",Daniel Carriço,1,4-2-3-1,Fri,Víctor García Verdura,W
+203,2022-03-04,0,61,Matchweek 30,Match Report,Away,0.9,Zaragoza,1.9,"14,000",César de la Hoz,2,4-4-2,Fri,Daniel Trujillo,L
+204,2022-03-12,3,63,Matchweek 31,Match Report,Home,0.6,Lugo,1.9,"10,053",César de la Hoz,3,4-2-3-1,Sat,Juan Pulido,D
+205,2022-03-21,1,51,Matchweek 32,Match Report,Away,0.9,Tenerife,1.0,"15,007",César de la Hoz,0,3-5-2,Mon,Oliver De La Fuente,W
+206,2022-03-27,0,60,Matchweek 33,Match Report,Home,1.6,Girona,2.3,"9,260",César de la Hoz,1,4-2-3-1,Sun,Gorka Sagues,L
+207,2022-04-03,1,54,Matchweek 34,Match Report,Away,1.6,Huesca,0.5,"5,832",César de la Hoz,1,4-2-3-1,Sun,José López,D
+208,2022-04-11,3,52,Matchweek 35,Match Report,Home,0.3,Ponferradina,1.4,"9,836",César de la Hoz,0,4-3-3,Mon,Daniel Trujillo,W
+209,2022-04-16,2,44,Matchweek 36,Match Report,Away,1.1,Valladolid,1.8,"19,608",Lucas Robertone,2,4-2-3-1,Sat,Francisco Hernández,D
+210,2022-04-25,1,59,Matchweek 37,Match Report,Home,0.5,Sporting Gijón,2.5,"9,897",César de la Hoz,0,4-2-3-1,Mon,Jon González,W
+211,2022-04-30,2,56,Matchweek 38,Match Report,Away,2.0,Burgos,1.2,"8,479",Lucas Robertone,0,4-2-3-1,Sat,Juan Pulido,W
+212,2022-05-07,3,55,Matchweek 39,Match Report,Home,0.5,Amorebieta,3.0,"13,478",César de la Hoz,0,4-2-3-1,Sat,Javier Villanueva,W
+213,2022-05-13,2,45,Matchweek 40,Match Report,Away,0.7,Real Sociedad B,1.9,"8,140",César de la Hoz,0,4-2-3-1,Fri,Iván Caparrós,W
+214,2022-05-21,1,63,Matchweek 41,Match Report,Home,1.0,Alcorcón,1.8,"14,759",César de la Hoz,1,4-2-3-1,Sat,Raúl González,D
+215,2022-05-29,2,65,Matchweek 42,Match Report,Away,1.8,Leganés,1.5,"8,654",César de la Hoz,2,4-2-3-1,Sun,Dámaso Arcediano,D
+216,2022-08-14,1,33,Matchweek 1,Match Report,Home,2.1,Real Madrid,0.7,"14,386",Srđan Babić,2,5-3-2,Sun,Juan Martínez,L
+217,2022-08-22,1,46,Matchweek 2,Match Report,Away,1.0,Elche,0.7,"23,361",Srđan Babić,1,3-4-1-2,Mon,Isidro Díaz de Mera,D
+218,2022-08-27,2,33,Matchweek 3,Match Report,Home,1.0,Sevilla,2.3,"13,788",Srđan Babić,1,3-4-1-2,Sat,Jesús Gil,W
+219,2022-09-05,0,49,Matchweek 4,Match Report,Away,1.2,Valladolid,0.5,"20,260",César de la Hoz,1,4-2-3-1,Mon,Pablo González,L
+220,2022-09-12,0,61,Matchweek 5,Match Report,Home,2.0,Osasuna,0.2,"12,397",Srđan Babić,1,4-3-3,Mon,Javier Villanueva,L
+221,2022-09-17,0,56,Matchweek 6,Match Report,Away,0.6,Mallorca,0.4,"12,687",Srđan Babić,1,5-3-2,Sat,Juan Martínez,L
+222,2022-09-30,0,42,Matchweek 7,Match Report,Away,2.1,Athletic Club,0.7,"42,110",Srđan Babić,4,5-3-2,Fri,Juan Pulido,L
+223,2022-10-08,3,37,Matchweek 8,Match Report,Home,0.8,Rayo Vallecano,1.2,"10,783",César de la Hoz,1,4-2-3-1,Sat,Pablo González,W
+224,2022-10-16,1,46,Matchweek 9,Match Report,Away,2.5,Betis,0.8,"46,112",César de la Hoz,3,4-3-3,Sun,Alejandro Muñíz,L
+225,2022-10-20,3,35,Matchweek 10,Match Report,Home,2.8,Girona,1.8,"11,194",César de la Hoz,2,4-2-3-1,Thu,Guillermo Cuadra,W
+226,2022-10-23,1,48,Matchweek 11,Match Report,Away,1.0,Villarreal,1.0,"13,816",Lucas Robertone,2,5-3-2,Sun,Ricardo de Burgos,L
+227,2022-10-29,3,61,Matchweek 12,Match Report,Home,0.3,Celta Vigo,2.3,"11,080",César de la Hoz,1,4-1-4-1,Sat,Carlos del Cerro,W
+228,2022-11-05,0,30,Matchweek 13,Match Report,Away,4.0,Barcelona,0.5,"92,605",Lucas Robertone,2,5-3-2,Sat,Pablo González,L
+229,2022-11-09,1,54,Matchweek 14,Match Report,Home,0.4,Getafe,0.5,"11,454",César de la Hoz,0,4-1-4-1,Wed,Alejandro Muñíz,W
+230,2022-12-30,1,51,Matchweek 15,Match Report,Away,1.3,Cádiz,2.3,"17,345",César de la Hoz,1,4-1-4-1,Fri,Juan Martínez,D
+231,2023-01-08,0,44,Matchweek 16,Match Report,Home,1.7,Real Sociedad,0.6,"12,020",César de la Hoz,2,4-3-3,Sun,Alberola Rojas,L
+232,2023-01-15,1,55,Matchweek 17,Match Report,Home,2.4,Atlético Madrid,1.4,"14,128",Lucas Robertone,1,4-3-3,Sun,José Sánchez,D
+233,2023-01-23,2,43,Matchweek 18,Match Report,Away,1.9,Valencia,1.4,"33,442",Lucas Robertone,2,4-3-3,Mon,Jesús Gil,D
+234,2023-01-27,3,56,Matchweek 19,Match Report,Home,0.8,Espanyol,2.1,"11,629",César de la Hoz,1,4-3-3,Fri,Javier Villanueva,W
+235,2023-02-06,0,51,Matchweek 20,Match Report,Away,1.1,Rayo Vallecano,1.2,"11,783",Lucas Robertone,2,4-3-3,Mon,César Soto,L
+236,2023-02-11,2,52,Matchweek 21,Match Report,Home,2.5,Betis,2.3,"14,288",Srđan Babić,3,4-2-3-1,Sat,Alberola Rojas,L
+237,2023-02-17,2,48,Matchweek 22,Match Report,Away,3.0,Girona,1.8,"8,879",César de la Hoz,6,4-3-3,Fri,Valentín Pizarro,L
+238,2023-02-26,1,28,Matchweek 23,Match Report,Home,1.4,Barcelona,1.0,"15,279",César de la Hoz,0,4-4-2,Sun,Miguel Ángel Ortiz Arias,W
+239,2023-03-04,0,29,Matchweek 24,Match Report,Home,2.1,Villarreal,0.4,"13,311",César de la Hoz,2,4-4-2,Sat,Pablo González,L
+240,2023-03-12,1,44,Matchweek 25,Match Report,Away,3.0,Sevilla,1.1,"37,848",Srđan Babić,2,4-2-3-1,Sun,Ricardo de Burgos,L
+241,2023-03-18,1,66,Matchweek 26,Match Report,Home,1.4,Cádiz,2.4,"12,183",César de la Hoz,1,4-2-3-1,Sat,Carlos del Cerro,D
+242,2023-04-02,2,43,Matchweek 27,Match Report,Away,2.0,Celta Vigo,1.0,"14,011",Srđan Babić,2,4-4-2,Sun,Alejandro Hernández,D
+243,2023-04-09,2,40,Matchweek 28,Match Report,Home,1.3,Valencia,0.9,"14,309",Srđan Babić,1,4-1-3-2,Sun,José Sánchez,W
+244,2023-04-16,1,36,Matchweek 29,Match Report,Away,2.3,Atlético Madrid,0.2,"59,204",Srđan Babić,2,3-4-3,Sun,Isidro Díaz de Mera,L
+245,2023-04-22,1,53,Matchweek 30,Match Report,Home,1.7,Athletic Club,0.8,"13,271",Srđan Babić,2,4-2-3-1,Sat,Valentín Pizarro,L
+246,2023-04-26,2,54,Matchweek 31,Match Report,Away,1.6,Getafe,1.9,"10,260",César de la Hoz,1,4-3-3,Wed,Alberola Rojas,W
+247,2023-04-29,2,32,Matchweek 32,Match Report,Away,2.8,Real Madrid,1.3,"58,036",César de la Hoz,4,4-5-1,Sat,Guillermo Cuadra,L
+248,2023-05-02,2,46,Matchweek 33,Match Report,Home,1.0,Elche,1.7,"13,352",César de la Hoz,1,4-3-3,Tue,Alejandro Hernández,W
+249,2023-05-13,1,44,Matchweek 34,Match Report,Away,1.9,Osasuna,0.5,"19,747",César de la Hoz,3,4-3-3,Sat,Antonio Matéu,L
+250,2023-05-20,3,54,Matchweek 35,Match Report,Home,0.8,Mallorca,1.8,"12,791",Srđan Babić,0,4-3-3,Sat,Carlos del Cerro,W
+251,2023-05-23,0,28,Matchweek 36,Match Report,Away,1.9,Real Sociedad,0.1,"31,574",César de la Hoz,1,4-2-3-1,Tue,Pablo González,L
+252,2023-05-28,0,49,Matchweek 37,Match Report,Home,0.5,Valladolid,1.7,"14,608",Srđan Babić,0,4-3-3,Sun,Alberola Rojas,D
+253,2023-06-04,3,37,Matchweek 38,Match Report,Away,0.6,Espanyol,1.8,"14,213",Srđan Babić,3,4-3-3,Sun,César Soto,D
+254,2023-08-11,0,60,Matchweek 1,Match Report,Home,2.1,Rayo Vallecano,1.4,"14,837",Lucas Robertone,2,4-2-3-1,Fri,Alberola Rojas,L
+255,2023-08-19,1,43,Matchweek 2,Match Report,Home,2.0,Real Madrid,1.3,"17,561",Lucas Robertone,3,4-2-3-1,Sat,José Sánchez,L
+256,2023-08-26,1,48,Matchweek 3,Match Report,Away,1.6,Cádiz,0.3,"18,653",Juan Brandáriz,1,4-2-3-1,Sat,Víctor García,D
+257,2023-09-01,2,63,Matchweek 4,Match Report,Home,1.5,Celta Vigo,3.0,"14,196",Lucas Robertone,3,4-2-3-1,Fri,Ricardo de Burgos,L
+258,2023-09-17,1,38,Matchweek 5,Match Report,Away,0.9,Villarreal,1.5,"18,467",Lucas Robertone,2,4-2-3-1,Sun,Francisco Hernández,L
+259,2023-09-23,2,61,Matchweek 6,Match Report,Home,0.8,Valencia,2.6,"14,266",Lucas Robertone,2,4-2-3-1,Sat,Mateo Busquets,D
+260,2023-09-26,1,54,Matchweek 7,Match Report,Away,2.2,Sevilla,1.8,"35,729",Gonzalo Melero,5,4-4-2,Tue,Guillermo Cuadra,L
+261,2023-10-01,3,49,Matchweek 8,Match Report,Home,2.9,Granada,2.9,"14,264",Gonzalo Melero,3,4-3-3,Sun,Pablo González,D
+262,2023-10-06,0,41,Matchweek 9,Match Report,Away,1.9,Athletic Club,0.1,"43,677",Adri Embarba,3,4-4-2,Fri,Víctor García,L
+263,2023-10-22,2,34,Matchweek 10,Match Report,Away,1.9,Girona,1.0,"12,884",Lucas Robertone,5,4-2-3-1,Sun,Miguel Ángel Ortiz Arias,L
+264,2023-10-28,1,41,Matchweek 11,Match Report,Home,0.9,Las Palmas,0.3,"12,132",Lucas Robertone,2,4-2-3-1,Sat,Francisco Hernández,L
+265,2023-11-05,0,44,Matchweek 12,Match Report,Away,2.4,Alavés,0.5,"16,380",Lucas Robertone,1,4-2-3-1,Sun,Juan Pulido,L
+266,2023-11-11,1,47,Matchweek 13,Match Report,Home,2.4,Real Sociedad,0.4,"13,016",Lucas Robertone,3,4-2-3-1,Sat,Isidro Díaz de Mera,L
+267,2023-11-25,1,47,Matchweek 14,Match Report,Away,1.2,Getafe,1.8,"10,906",Lucas Robertone,2,4-2-3-1,Sat,Alejandro Hernández,L
+268,2023-12-03,0,61,Matchweek 15,Match Report,Home,0.5,Betis,2.4,"14,253",Lucas Robertone,0,4-2-3-1,Sun,Alejandro Muñíz,D
+269,2023-12-10,1,43,Matchweek 16,Match Report,Away,2.2,Atlético Madrid,1.3,"55,473",Lucas Robertone,2,3-4-1-2,Sun,Ricardo de Burgos,L
+270,2023-12-17,,,Matchweek 17,Head-to-Head,Home,,Mallorca,,,,,,Sun,,
+271,2023-12-20,,,Matchweek 18,Head-to-Head,Away,,Barcelona,,,,,,Wed,,
+272,2024-01-04,,,Matchweek 19,Head-to-Head,Away,,Osasuna,,,,,,Thu,,
+273,2024-01-14,,,Matchweek 20,Head-to-Head,Home,,Girona,,,,,,Sun,,
+274,2024-01-21,,,Matchweek 21,Head-to-Head,Away,,Real Madrid,,,,,,Sun,,
+275,2024-01-28,,,Matchweek 22,Head-to-Head,Home,,Alavés,,,,,,Sun,,
+276,2024-02-04,,,Matchweek 23,Head-to-Head,Away,,Valencia,,,,,,Sun,,
+277,2024-02-11,,,Matchweek 24,Head-to-Head,Home,,Athletic Club,,,,,,Sun,,
+278,2024-02-18,,,Matchweek 25,Head-to-Head,Away,,Granada,,,,,,Sun,,
+279,2024-02-25,,,Matchweek 26,Head-to-Head,Home,,Atlético Madrid,,,,,,Sun,,
+280,2024-03-03,,,Matchweek 27,Head-to-Head,Away,,Celta Vigo,,,,,,Sun,,
+281,2024-03-10,,,Matchweek 28,Head-to-Head,Home,,Sevilla,,,,,,Sun,,
+282,2024-03-17,,,Matchweek 29,Head-to-Head,Away,,Las Palmas,,,,,,Sun,,
+283,2024-03-31,,,Matchweek 30,Head-to-Head,Home,,Osasuna,,,,,,Sun,,
+284,2024-04-14,,,Matchweek 31,Head-to-Head,Away,,Real Sociedad,,,,,,Sun,,
+285,2024-04-21,,,Matchweek 32,Head-to-Head,Home,,Villarreal,,,,,,Sun,,
+286,2024-04-28,,,Matchweek 33,Head-to-Head,Home,,Getafe,,,,,,Sun,,
+287,2024-05-05,,,Matchweek 34,Head-to-Head,Away,,Rayo Vallecano,,,,,,Sun,,
+288,2024-05-12,,,Matchweek 35,Head-to-Head,Away,,Betis,,,,,,Sun,,
+289,2024-05-15,,,Matchweek 36,Head-to-Head,Home,,Barcelona,,,,,,Wed,,
+290,2024-05-19,,,Matchweek 37,Head-to-Head,Away,,Mallorca,,,,,,Sun,,
+291,2024-05-26,,,Matchweek 38,Head-to-Head,Home,,Cádiz,,,,,,Sun,,

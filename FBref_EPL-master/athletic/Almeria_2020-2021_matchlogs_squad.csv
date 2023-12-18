@@ -1,0 +1,39 @@
+,date,possession,captain,match_report,attendance,formation,opponent,round,dayofweek,goals_against,xg_against,referee,goals_for,venue,xg_for,result
+0,2020-09-12,60,Iker Muniain,Match Report,,4-2-3-1,Granada,Matchweek 1,Sat,2,0.4,Antonio Matéu Lahoz,0,Away,0.5,L
+1,2020-09-27,51,Iker Muniain,Match Report,,4-2-3-1,Eibar,Matchweek 3,Sun,1,0.6,Adrián Cordero,2,Away,0.6,W
+2,2020-10-01,72,Iker Muniain,Match Report,,4-2-3-1,Cádiz,Matchweek 4,Thu,1,0.2,Pablo González,0,Home,0.6,L
+3,2020-10-04,59,Raúl García,Match Report,,4-2-3-1,Alavés,Matchweek 5,Sun,1,0.6,José Sánchez,0,Away,0.6,L
+4,2020-10-18,52,Iker Muniain,Match Report,,4-2-3-1,Levante,Matchweek 6,Sun,0,0.3,Alberola Rojas,2,Home,2.3,W
+5,2020-10-24,61,Iker Muniain,Match Report,,4-2-3-1,Osasuna,Matchweek 7,Sat,1,1.2,Guillermo Cuadra,0,Away,0.7,L
+6,2020-10-31,47,Raúl García,Match Report,,4-2-3-1,Sevilla,Matchweek 8,Sat,1,1.1,Carlos del Cerro,2,Home,1.2,W
+7,2020-11-08,70,Iker Muniain,Match Report,,4-2-3-1,Valladolid,Matchweek 9,Sun,2,2.1,César Soto,1,Away,1.7,L
+8,2020-11-23,41,Iker Muniain,Match Report,,4-2-3-1,Betis,Matchweek 10,Mon,0,0.4,Alberola Rojas,4,Home,2.5,W
+9,2020-11-29,49,Iker Muniain,Match Report,,4-2-3-1,Getafe,Matchweek 11,Sun,1,0.5,Mario Melero,1,Away,0.3,D
+10,2020-12-04,51,Iker Muniain,Match Report,,4-2-3-1,Celta Vigo,Matchweek 12,Fri,2,1.2,Jorge Figueroa,0,Home,0.5,L
+11,2020-12-12,59,Iker Muniain,Match Report,,4-2-3-1,Valencia,Matchweek 13,Sat,2,1.5,Carlos del Cerro,2,Away,1.9,D
+12,2020-12-15,32,Óscar de Marcos,Match Report,,4-2-3-1,Real Madrid,Matchweek 19,Tue,3,2.2,Jesús Gil,1,Away,0.8,L
+13,2020-12-18,54,Iker Muniain,Match Report,,4-2-3-1,Huesca,Matchweek 14,Fri,0,0.2,Valentín Pizarro,2,Home,1.4,W
+14,2020-12-22,35,Iker Muniain,Match Report,,4-2-3-1,Villarreal,Matchweek 15,Tue,1,1.4,David Medié,1,Away,0.8,D
+15,2020-12-31,60,Iker Muniain,Match Report,,4-2-3-1,Real Sociedad,Matchweek 16,Thu,1,1.6,José Sánchez,0,Home,0.2,L
+16,2021-01-03,49,Iker Muniain,Match Report,,4-2-3-1,Elche,Matchweek 17,Sun,0,0.2,Mario Melero,1,Home,1.4,W
+17,2021-01-06,43,Iker Muniain,Match Report,,4-4-2,Barcelona,Matchweek 2,Wed,3,1.6,Carlos del Cerro,2,Home,0.6,L
+18,2021-01-25,51,Iker Muniain,Match Report,,4-4-2,Getafe,Matchweek 20,Mon,1,1.3,Adrián Cordero,5,Home,2.0,W
+19,2021-01-31,42,Iker Muniain,Match Report,,4-4-2,Barcelona,Matchweek 21,Sun,2,1.9,Antonio Matéu Lahoz,1,Away,0.3,L
+20,2021-02-07,50,Mikel Balenziaga,Match Report,,4-4-2,Valencia,Matchweek 22,Sun,1,0.9,José Luis Munuera,1,Home,1.2,D
+21,2021-02-15,57,Iker Muniain,Match Report,,4-4-2,Cádiz,Matchweek 23,Mon,0,0.5,Alejandro Hernández,4,Away,2.2,W
+22,2021-02-21,48,Iker Muniain,Match Report,,4-4-2,Villarreal,Matchweek 24,Sun,1,0.1,Carlos del Cerro,1,Home,2.6,D
+23,2021-02-26,55,Iker Muniain,Match Report,,4-4-2,Levante,Matchweek 25,Fri,1,1.2,Isidro Díaz de Mera,1,Away,1.9,D
+24,2021-03-07,49,Mikel Balenziaga,Match Report,,4-4-2,Granada,Matchweek 26,Sun,1,2.0,Juan Martínez,2,Home,1.3,W
+25,2021-03-10,54,Iker Muniain,Match Report,,4-4-2,Atlético Madrid,Matchweek 18,Wed,2,1.5,Jesús Gil,1,Away,0.6,L
+26,2021-03-14,35,Mikel Balenziaga,Match Report,,4-4-2,Celta Vigo,Matchweek 27,Sun,0,1.2,Santiago Jaime,0,Away,0.7,D
+27,2021-03-20,56,Iker Muniain,Match Report,,4-4-2,Eibar,Matchweek 28,Sat,1,0.6,Valentín Pizarro,1,Home,1.6,D
+28,2021-04-07,49,Iker Muniain,Match Report,,4-4-2,Real Sociedad,Matchweek 29,Wed,1,0.9,José Sánchez,1,Away,0.7,D
+29,2021-04-10,45,Mikel Balenziaga,Match Report,,4-4-2,Alavés,Matchweek 30,Sat,0,0.5,Mario Melero,0,Home,1.8,D
+30,2021-04-21,59,Óscar de Marcos,Match Report,,4-4-2,Betis,Matchweek 31,Wed,0,0.2,David Medié,0,Away,0.8,D
+31,2021-04-25,38,Mikel Balenziaga,Match Report,,4-4-2,Atlético Madrid,Matchweek 32,Sun,1,0.8,Pablo González,2,Home,1.2,W
+32,2021-04-28,51,Óscar de Marcos,Match Report,,4-4-2,Valladolid,Matchweek 33,Wed,2,0.8,Adrián Cordero,2,Home,1.5,D
+33,2021-05-03,27,Óscar de Marcos,Match Report,,4-4-2,Sevilla,Matchweek 34,Mon,0,1.1,Jesús Gil,1,Away,0.7,W
+34,2021-05-08,45,Óscar de Marcos,Match Report,,4-4-2,Osasuna,Matchweek 35,Sat,2,1.3,Valentín Pizarro,2,Home,1.6,D
+35,2021-05-12,49,Óscar de Marcos,Match Report,,4-4-2,Huesca,Matchweek 36,Wed,1,1.2,Jorge Figueroa,0,Away,0.5,L
+36,2021-05-16,36,Óscar de Marcos,Match Report,,4-4-2,Real Madrid,Matchweek 37,Sun,1,1.0,Antonio Matéu Lahoz,0,Home,0.7,L
+37,2021-05-22,55,Mikel Balenziaga,Match Report,"3,518",4-4-2,Elche,Matchweek 38,Sat,2,1.0,Carlos del Cerro,0,Away,0.5,L

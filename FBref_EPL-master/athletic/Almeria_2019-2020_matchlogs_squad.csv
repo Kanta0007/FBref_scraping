@@ -1,0 +1,39 @@
+,date,possession,captain,match_report,attendance,formation,opponent,round,dayofweek,goals_against,xg_against,referee,goals_for,venue,xg_for,result
+0,2019-08-16,29,Iker Muniain,Match Report,"47,693",4-2-3-1,Barcelona,Matchweek 1,Fri,0,0.9,Carlos del Cerro,1,Home,0.5,W
+1,2019-08-24,53,Iker Muniain,Match Report,"10,103",4-2-3-1,Getafe,Matchweek 2,Sat,1,0.3,Antonio Matéu Lahoz,1,Away,0.5,D
+2,2019-08-30,40,Iker Muniain,Match Report,"46,697",4-2-3-1,Real Sociedad,Matchweek 3,Fri,0,0.2,Javier Estrada,2,Home,1.0,W
+3,2019-09-13,51,Iker Muniain,Match Report,"16,390",4-2-3-1,Mallorca,Matchweek 4,Fri,0,1.8,Pablo González,0,Away,1.5,D
+4,2019-09-22,57,Iker Muniain,Match Report,"45,143",4-2-3-1,Alavés,Matchweek 5,Sun,0,0.2,Jesús Gil,2,Home,2.4,W
+5,2019-09-25,60,Raúl García,Match Report,"11,036",4-2-3-1,Leganés,Matchweek 6,Wed,1,0.5,José González,1,Away,1.2,D
+6,2019-09-28,51,Iker Muniain,Match Report,"42,420",4-2-3-1,Valencia,Matchweek 7,Sat,1,1.8,Mario Melero,0,Home,1.4,L
+7,2019-10-06,38,Iker Muniain,Match Report,"19,690",4-2-3-1,Celta Vigo,Matchweek 8,Sun,1,1.2,David Medié,0,Away,0.2,L
+8,2019-10-20,52,Iker Muniain,Match Report,"37,107",4-2-3-1,Valladolid,Matchweek 9,Sun,1,0.7,Jesús Gil,1,Home,1.5,D
+9,2019-10-26,55,Iker Muniain,Match Report,"59,211",4-2-3-1,Atlético Madrid,Matchweek 10,Sat,2,1.5,Alejandro Hernández,0,Away,0.4,L
+10,2019-10-30,46,Iker Muniain,Match Report,"37,094",4-2-3-1,Espanyol,Matchweek 11,Wed,0,0.9,Juan Martínez,3,Home,0.3,W
+11,2019-11-03,44,Iker Muniain,Match Report,"17,460",4-2-3-1,Villarreal,Matchweek 12,Sun,0,0.8,Santiago Jaime,0,Away,0.9,D
+12,2019-11-10,57,Iker Muniain,Match Report,"33,202",4-2-3-1,Levante,Matchweek 13,Sun,1,0.6,Alberola Rojas,2,Home,1.6,W
+13,2019-11-24,41,Raúl García,Match Report,"16,145",4-2-3-1,Osasuna,Matchweek 14,Sun,1,1.3,José Sánchez,2,Away,1.1,W
+14,2019-12-01,57,Raúl García,Match Report,"37,974",4-2-3-1,Granada,Matchweek 15,Sun,0,1.0,Adrián Cordero,2,Home,1.9,W
+15,2019-12-08,51,Iñaki Williams,Match Report,"46,106",4-2-3-1,Betis,Matchweek 16,Sun,3,2.0,Valentín Pizarro,2,Away,1.0,L
+16,2019-12-14,56,Mikel San José,Match Report,"43,203",4-2-3-1,Eibar,Matchweek 17,Sat,0,0.4,Mario Melero,0,Home,0.9,D
+17,2019-12-22,31,Raúl García,Match Report,"71,306",5-3-2,Real Madrid,Matchweek 18,Sun,0,2.5,Adrián Cordero,0,Away,0.4,D
+18,2020-01-03,35,Raúl García,Match Report,"37,972",3-5-2,Sevilla,Matchweek 19,Fri,1,1.3,José González,1,Away,0.2,D
+19,2020-01-19,62,Iker Muniain,Match Report,"41,348",4-2-3-1,Celta Vigo,Matchweek 20,Sun,1,0.7,David Medié,1,Home,3.7,D
+20,2020-01-25,50,Iker Muniain,Match Report,"27,542",5-3-2,Espanyol,Matchweek 21,Sat,1,0.6,José Sánchez,1,Away,0.8,D
+21,2020-02-02,71,Iker Muniain,Match Report,"40,291",4-2-3-1,Getafe,Matchweek 22,Sun,2,1.7,Alberola Rojas,0,Home,0.9,L
+22,2020-02-09,37,Mikel San José,Match Report,"36,730",4-2-3-1,Real Sociedad,Matchweek 23,Sun,2,2.2,José Luis Munuera,1,Away,0.8,L
+23,2020-02-16,65,Raúl García,Match Report,"44,222",3-5-2,Osasuna,Matchweek 24,Sun,1,0.6,Pablo González,0,Home,0.8,L
+24,2020-02-23,56,Iker Muniain,Match Report,"19,412",5-3-2,Alavés,Matchweek 25,Sun,2,1.8,Antonio Matéu Lahoz,1,Away,0.8,L
+25,2020-03-01,44,Iker Muniain,Match Report,"36,350",4-2-3-1,Villarreal,Matchweek 26,Sun,0,1.0,David Medié,1,Home,2.6,W
+26,2020-03-08,42,Raúl García,Match Report,"21,632",4-2-3-1,Valladolid,Matchweek 27,Sun,1,2.1,José Luis Munuera,4,Away,1.1,W
+27,2020-06-14,54,Iker Muniain,Match Report,,4-2-3-1,Atlético Madrid,Matchweek 28,Sun,1,1.3,José González,1,Home,0.4,D
+28,2020-06-17,52,Iker Muniain,Match Report,,4-2-3-1,Eibar,Matchweek 29,Wed,2,2.1,Eduardo Prieto,2,Away,1.4,D
+29,2020-06-20,43,Iker Muniain,Match Report,,4-2-3-1,Betis,Matchweek 30,Sat,0,1.8,Valentín Pizarro,1,Home,1.7,W
+30,2020-06-23,27,Óscar de Marcos,Match Report,,4-2-3-1,Barcelona,Matchweek 31,Tue,1,1.8,Jesús Gil,0,Away,0.4,L
+31,2020-06-27,47,Iker Muniain,Match Report,,4-2-3-1,Mallorca,Matchweek 32,Sat,1,1.3,Pablo González,3,Home,2.6,W
+32,2020-07-01,49,Iker Muniain,Match Report,,4-2-3-1,Valencia,Matchweek 33,Wed,0,1.0,Javier Estrada,2,Away,0.7,W
+33,2020-07-05,44,Iker Muniain,Match Report,,4-2-3-1,Real Madrid,Matchweek 34,Sun,1,2.5,José González,0,Home,0.3,L
+34,2020-07-09,34,Iker Muniain,Match Report,,4-2-3-1,Sevilla,Matchweek 35,Thu,2,1.7,David Medié,1,Home,0.9,L
+35,2020-07-12,44,Iker Muniain,Match Report,,4-2-3-1,Levante,Matchweek 36,Sun,1,1.1,Alberola Rojas,2,Away,0.9,W
+36,2020-07-16,61,Iker Muniain,Match Report,,4-2-3-1,Leganés,Matchweek 37,Thu,2,2.0,Juan Martínez,0,Home,0.7,L
+37,2020-07-19,63,Raúl García,Match Report,,4-2-3-1,Granada,Matchweek 38,Sun,4,1.6,Carlos del Cerro,0,Away,0.7,L

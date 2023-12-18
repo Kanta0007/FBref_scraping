@@ -1,0 +1,46 @@
+,date,dayofweek,goals_against,possession,round,xg_for,captain,goals_for,opponent,match_report,referee,venue,attendance,xg_against,result,formation
+0,2020-09-27,Sun,0,61,Matchweek 3,0.4,César de la Hoz,2,Lugo,Match Report,Aitor Gorostegui,Away,,0.3,W,4-3-3
+1,2020-10-04,Sun,1,66,Matchweek 4,0.7,César de la Hoz,0,Sporting Gijón,Match Report,Rubén Ávalos,Home,,0.7,L,4-2-3-1
+2,2020-10-10,Sat,1,63,Matchweek 5,0.2,Fernando,0,UD Logroñés,Match Report,Oliver De La Fuente,Away,,0.7,L,4-2-3-1
+3,2020-10-17,Sat,2,62,Matchweek 6,0.4,Fernando,0,Las Palmas,Match Report,Iñaki Bikandi,Away,,0.6,L,4-2-3-1
+4,2020-10-21,Wed,1,58,Matchweek 7,1.8,César de la Hoz,1,Cartagena,Match Report,David Gálvez,Home,,1.6,D,4-2-3-1
+5,2020-10-24,Sat,0,60,Matchweek 8,2.2,José Corpas,3,Fuenlabrada,Match Report,Saúl Ais,Home,,0.3,W,4-2-3-1
+6,2020-10-28,Wed,1,54,Matchweek 9,1.2,José Corpas,2,Castellón,Match Report,Eduardo Prieto,Away,,1.4,W,4-2-3-1
+7,2020-11-01,Sun,0,74,Matchweek 10,2.2,José Corpas,0,Girona,Match Report,Dámaso Arcediano,Home,,0.2,D,4-2-3-1
+8,2020-11-05,Thu,1,48,Matchweek 1,1.6,Fernando,2,Sabadell,Match Report,Iosu Galech,Away,,1.6,W,4-2-3-1
+9,2020-11-08,Sun,0,61,Matchweek 11,1.0,José Corpas,1,Rayo Vallecano,Match Report,Javier Villanueva,Away,,0.6,W,4-2-3-1
+10,2020-11-14,Sat,1,46,Matchweek 12,1.5,Fernando,2,CD Mirandés,Match Report,Rafael Sánchez,Home,,1.5,W,4-2-3-1
+11,2020-11-23,Mon,1,51,Matchweek 13,1.6,José Corpas,2,Albacete,Match Report,Juan Pulido,Away,,1.9,W,4-2-3-1
+12,2020-11-26,Thu,0,57,Matchweek 14,1.9,Fernando,2,Tenerife,Match Report,Álvaro Moreno,Home,,0.8,W,4-2-3-1
+13,2020-11-30,Mon,1,48,Matchweek 15,1.5,José Corpas,2,Oviedo,Match Report,David Gálvez,Away,,1.2,W,4-2-3-1
+14,2020-12-03,Thu,1,54,Matchweek 16,0.5,Fernando,0,Mallorca,Match Report,Alejandro Muñíz,Home,,0.6,L,4-2-3-1
+15,2020-12-06,Sun,0,60,Matchweek 17,1.1,José Corpas,1,Alcorcón,Match Report,José López,Away,,2.0,W,4-2-3-1
+16,2020-12-09,Wed,0,52,Matchweek 2,0.9,Fernando,1,Zaragoza,Match Report,Aitor Gorostegui,Home,,0.5,W,4-2-3-1
+17,2020-12-13,Sun,1,54,Matchweek 18,1.0,José Corpas,3,Málaga,Match Report,Daniel Trujillo,Home,,1.3,W,4-2-3-1
+18,2020-12-20,Sun,2,59,Matchweek 19,1.9,José Corpas,1,Espanyol,Match Report,Miguel Ángel Ortiz Arias,Away,,1.4,L,4-2-3-1
+19,2021-01-03,Sun,1,61,Matchweek 20,2.2,Iván Balliu,3,Ponferradina,Match Report,Eduardo Prieto,Home,,0.4,W,4-2-3-1
+20,2021-01-24,Sun,2,62,Matchweek 22,1.9,José Corpas,2,Sabadell,Match Report,Daniel Ocón,Home,,0.7,D,4-2-3-1
+21,2021-01-30,Sat,1,76,Matchweek 23,1.5,José Corpas,3,Castellón,Match Report,Iñaki Bikandi,Home,,0.2,W,4-2-3-1
+22,2021-02-06,Sat,1,50,Matchweek 24,0.3,José Corpas,1,Fuenlabrada,Match Report,Gorka Sagues,Away,,2.2,D,4-2-3-1
+23,2021-02-14,Sun,1,46,Matchweek 25,3.3,Iván Balliu,3,Las Palmas,Match Report,Jon González,Home,,0.7,W,4-4-2
+24,2021-02-17,Wed,2,53,Matchweek 21,0.7,Fernando,1,Leganés,Match Report,Javier Villanueva,Away,,1.3,L,4-2-3-1
+25,2021-02-21,Sun,2,56,Matchweek 26,1.0,José Corpas,0,Mallorca,Match Report,Miguel Ángel Ortiz Arias,Away,,1.5,L,4-2-3-1
+26,2021-02-27,Sat,1,70,Matchweek 27,3.3,Iván Balliu,4,Lugo,Match Report,Dámaso Arcediano,Home,,1.5,W,4-2-3-1
+27,2021-03-07,Sun,0,53,Matchweek 28,1.4,José Corpas,1,Girona,Match Report,Javier Villanueva,Away,,0.6,W,4-2-3-1
+28,2021-03-15,Mon,0,62,Matchweek 29,0.5,José Corpas,0,Alcorcón,Match Report,Oliver De La Fuente,Home,,0.7,D,4-2-3-1
+29,2021-03-21,Sun,2,67,Matchweek 30,0.9,José Corpas,1,Ponferradina,Match Report,Iosu Galech,Away,,1.0,L,4-2-3-1
+30,2021-03-27,Sat,1,70,Matchweek 31,4.0,Iván Balliu,1,Leganés,Match Report,José López,Home,,2.1,D,4-2-3-1
+31,2021-03-30,Tue,0,53,Matchweek 32,1.9,Iván Balliu,3,Málaga,Match Report,Rubén Ávalos,Away,,0.8,W,4-2-3-1
+32,2021-04-02,Fri,1,57,Matchweek 33,0.3,Fernando,0,Rayo Vallecano,Match Report,Alejandro Muñíz,Home,,0.7,L,4-2-3-1
+33,2021-04-11,Sun,2,64,Matchweek 34,2.3,Iván Balliu,1,Zaragoza,Match Report,Miguel Ángel Ortiz Arias,Away,,1.6,L,4-2-3-1
+34,2021-04-19,Mon,1,53,Matchweek 35,0.9,Iván Balliu,1,Espanyol,Match Report,David Gálvez,Home,,1.9,D,4-2-3-1
+35,2021-04-25,Sun,1,53,Matchweek 36,1.7,José Corpas,1,CD Mirandés,Match Report,Francisco Hernández,Away,,1.0,D,3-4-3
+36,2021-05-01,Sat,2,52,Matchweek 37,1.8,José Corpas,2,Oviedo,Match Report,Saúl Ais,Home,,0.5,D,4-1-4-1
+37,2021-05-07,Fri,0,61,Matchweek 38,2.1,José Corpas,1,Tenerife,Match Report,Álvaro Moreno,Away,,0.7,W,4-2-3-1
+38,2021-05-15,Sat,1,74,Matchweek 39,2.6,Iván Balliu,1,Albacete,Match Report,Miguel Ángel Ortiz Arias,Home,,0.9,D,4-2-3-1
+39,2021-05-18,Tue,3,62,Matchweek 40,1.7,Nikola Maraš,2,Cartagena,Match Report,Javier Villanueva,Away,"2,643",1.7,L,4-2-3-1
+40,2021-05-24,Mon,1,57,Matchweek 41,2.9,César de la Hoz,2,UD Logroñés,Match Report,Francisco Hernández,Home,,1.5,W,4-2-3-1
+41,2021-05-30,Sun,0,55,Matchweek 42,1.1,Fernando,2,Sporting Gijón,Match Report,Eduardo Prieto,Away,"4,450",1.0,W,4-2-3-1
+42,,,,,,,,,,,,,,,,
+43,2021-06-02,Wed,3,62,Semi-finals,0.3,César de la Hoz,0,Girona,Match Report,Alejandro Muñíz,Away,,2.1,L,4-2-3-1
+44,2021-06-05,Sat,0,67,Semi-finals,0.9,Fernando,0,Girona,Match Report,Miguel Ángel Ortiz Arias,Home,,1.1,D,4-2-3-1
